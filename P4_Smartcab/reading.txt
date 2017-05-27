@@ -1,0 +1,5 @@
+8/2/2016
+http://www.census.gov/geo/maps-data/data/tiger.html  
+http://ipython-books.github.io/featured-03/  Creating a route planner for road network in Python
+http://www.openstreetmap.org/ 
+http://ompl.kavrakilab.org/  The Open Motion Planning Library 
