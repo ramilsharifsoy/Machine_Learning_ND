@@ -1,6 +1,6 @@
-# Customer_Segments
+# Customer Engagement, Campaign Performance, and Resource Efficiency
 
-In this project you will apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data. 
+Unsupervised learning techniques applied on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data. 
 
 - Explore the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. 
 - Preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. 
