@@ -1,0 +1,342 @@
+Response ID,Start Date,End Date,Status,Source Type,InteractPedestrian,InteractBicycle,CircumstancesCoded,FeelingsProvingGround,SafetyHuman,SafetyAV,AVSafetyPotential,RegulationTesting,RegulationSpeed,RegulationSchoolZone,RegulationShareData,AdvocacyIssues,BikePghPosition,PayingAttentionAV,FamiliarityTechnoology,ZipCode
+259886900,02/15/2017 12:11:03 PM PST,02/15/2017 12:12:27 PM PST,COMPLETE,Survey Link,Yes,Yes,9,Disapprove,1,1,Maybe,Yes,Yes,Yes,Yes,Disagree,Neither Support nor Oppose,Not at all,Somewhat familiar,15209
+259914050,02/15/2017 1:34:14 PM PST,02/15/2017 1:38:44 PM PST,COMPLETE,Survey Link,No,Yes,9,Somewhat Disapprove,3,1,No,Yes,Yes,No,No,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15090
+260012773,02/16/2017 6:00:29 AM PST,02/16/2017 6:06:31 AM PST,COMPLETE,Survey Link,Yes,Yes,9,Neutral,2,2,Not sure,No,Yes,No,Yes,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15212
+260023580,02/16/2017 9:08:32 AM PST,02/16/2017 9:15:00 AM PST,COMPLETE,Survey Link,No,No,9,Approve,4,4,Yes,Yes,Yes,No,Yes,Disagree,Actively Support,To a moderate extent,Mostly Unfamiliar,15206
+260023756,02/16/2017 9:12:19 AM PST,02/16/2017 9:27:38 AM PST,COMPLETE,Survey Link,No,No,9,Somewhat Approve,4,2,Yes,Yes,Yes,Yes,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15129
+260232048,02/21/2017 3:18:57 PM PST,02/21/2017 3:28:23 PM PST,COMPLETE,Survey Link,Yes,No,9,Disapprove,4,2,Yes,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15206
+259906230,02/15/2017 1:03:28 PM PST,02/15/2017 1:12:01 PM PST,COMPLETE,Survey Link,No,Yes,4,Somewhat Approve,2,2,Not sure,Yes,Not sure,Not sure,Yes,Strongly Agree,Neither Support nor Oppose,To a large extent,Somewhat familiar,15222
+259923218,02/15/2017 2:13:40 PM PST,02/15/2017 2:19:05 PM PST,COMPLETE,Survey Link,Yes,Yes,4,Somewhat Disapprove,2,3,Yes,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15213
+260172354,02/20/2017 12:16:07 PM PST,02/20/2017 12:35:35 PM PST,COMPLETE,Survey Link,Yes,Yes,4,Somewhat Approve,3,4,Yes,Yes,No,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15206
+260226057,02/21/2017 11:30:13 AM PST,02/21/2017 11:35:29 AM PST,COMPLETE,Survey Link,No,Yes,4,Somewhat Disapprove,2,3,Yes,Yes,Yes,No,Not sure,Strongly Agree,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15213
+259887536,02/15/2017 12:26:53 PM PST,02/15/2017 12:41:37 PM PST,COMPLETE,Survey Link,Yes,Not sure,3,Neutral,3,4,Yes,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15201
+259887577,02/15/2017 12:29:16 PM PST,02/15/2017 12:33:42 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Approve,3,5,Yes,Yes,No,No,Not sure,Agree,Actively Support,To a large extent,Extremely familiar,15208
+259898604,02/15/2017 12:45:58 PM PST,02/15/2017 12:51:11 PM PST,COMPLETE,Survey Link,No,Yes,3,Approve,3,5,Yes,No,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15222
+259901645,02/15/2017 12:52:45 PM PST,02/15/2017 1:21:09 PM PST,COMPLETE,Survey Link,No,Yes,3,Somewhat Disapprove,4,3,Maybe,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15208
+259908777,02/15/2017 1:13:22 PM PST,02/15/2017 1:16:08 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Approve,2,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15217
+259915769,02/15/2017 1:41:29 PM PST,02/15/2017 1:46:39 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Approve,3,4,Yes,Yes,No,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15212
+259927283,02/15/2017 2:34:18 PM PST,02/15/2017 2:43:44 PM PST,COMPLETE,Survey Link,No,Yes,3,Approve,3,4,Yes,Yes,No,No,No,Agree,Actively Support,To a moderate extent,Somewhat familiar,15217
+259944334,02/15/2017 4:23:04 PM PST,02/15/2017 4:28:15 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Approve,2,5,Yes,Yes,No,No,Yes,Strongly Agree,Actively Support,To a large extent,Somewhat familiar,15217
+259954063,02/15/2017 7:45:42 PM PST,02/15/2017 7:54:51 PM PST,COMPLETE,Survey Link,Yes,No,3,Approve,3,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15218
+260011718,02/16/2017 5:46:51 AM PST,02/16/2017 5:49:19 AM PST,COMPLETE,Survey Link,Yes,Yes,3,Approve,1,5,Yes,Yes,No,No,Yes,Disagree,Actively Support,To a large extent,Mostly familiar,15206
+260013232,02/16/2017 6:06:19 AM PST,02/16/2017 6:21:38 AM PST,COMPLETE,Survey Link,Yes,No,3,Somewhat Disapprove,3,2,Yes,Yes,Yes,Yes,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15206
+260017318,02/16/2017 7:09:18 AM PST,02/16/2017 7:21:40 AM PST,COMPLETE,Survey Link,Yes,Yes,3,Somewhat Approve,3,4,Yes,Not sure,Yes,No,Not sure,Disagree,Actively Support,To some extent,Somewhat familiar,15206
+260046956,02/16/2017 3:29:54 PM PST,02/16/2017 3:38:44 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Somewhat Disapprove,4,3,Maybe,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+260062820,02/17/2017 6:03:26 AM PST,02/17/2017 6:07:22 AM PST,COMPLETE,Survey Link,No,Yes,3,Somewhat Approve,2,3,Yes,Yes,Yes,No,No,Agree,Actively Support,To a moderate extent,Somewhat familiar,15218
+260130592,02/19/2017 2:36:14 PM PST,02/19/2017 2:44:10 PM PST,COMPLETE,Survey Link,Yes,No,3,Approve,2,4,Yes,Not sure,Yes,No,Yes,Neutral,Actively Support,To little extent,Mostly Unfamiliar,15243
+260134468,02/19/2017 6:21:42 PM PST,02/19/2017 6:29:21 PM PST,COMPLETE,Survey Link,Yes,Yes,3,Somewhat Disapprove,3,3,Yes,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15224
+260167318,02/20/2017 7:32:46 AM PST,02/20/2017 7:54:14 AM PST,COMPLETE,Survey Link,Yes,Yes,3,Neutral,3,2,Yes,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,15224
+260167982,02/20/2017 8:07:40 AM PST,02/20/2017 8:27:35 AM PST,COMPLETE,Survey Link,Not sure,Not sure,3,Approve,2,4,Yes,Not sure,Not sure,Not sure,Yes,Agree,Actively Support,To some extent,Mostly Unfamiliar,15224
+260171255,02/20/2017 11:12:21 AM PST,02/20/2017 11:14:42 AM PST,COMPLETE,Survey Link,No,Yes,3,Somewhat Approve,1,2,Yes,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To a large extent,Extremely familiar,15206
+260234724,02/21/2017 5:17:31 PM PST,02/21/2017 5:32:24 PM PST,COMPLETE,Survey Link,Not sure,Yes,3,Somewhat Disapprove,3,2,Maybe,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To a large extent,Mostly Unfamiliar,15224
+259887307,02/15/2017 12:19:34 PM PST,02/15/2017 12:25:42 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,3,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15235
+259887371,02/15/2017 12:20:37 PM PST,02/15/2017 12:22:27 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,4,4,Maybe,No,Yes,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15211
+259887396,02/15/2017 12:21:13 PM PST,02/15/2017 12:27:47 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,2,3,Yes,Yes,Not sure,No,Yes,Neutral,Actively Support,To a large extent,Mostly familiar,15212
+259887470,02/15/2017 12:23:19 PM PST,02/15/2017 12:37:29 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,5,Yes,Not sure,Not sure,Not sure,Yes,Strongly Agree,Actively Support,To a moderate extent,Somewhat familiar,15202
+259887473,02/15/2017 12:23:26 PM PST,02/15/2017 12:28:21 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,4,4,Yes,Yes,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To a large extent,Somewhat familiar,15202
+259887476,02/15/2017 12:23:51 PM PST,02/15/2017 12:36:34 PM PST,COMPLETE,Survey Link,Yes,No,2,Neutral,4,4,Yes,Yes,No,Yes,Not sure,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15208
+259887485,02/15/2017 12:24:10 PM PST,02/15/2017 12:30:00 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,4,4,Yes,Not sure,No,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,15218
+259887488,02/15/2017 12:24:27 PM PST,02/15/2017 12:27:26 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Not sure,Not sure,No,Yes,Neutral,Actively Support,To some extent,Somewhat familiar,15232
+259887489,02/15/2017 12:24:32 PM PST,02/15/2017 12:36:50 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,2,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15222
+259887520,02/15/2017 12:26:00 PM PST,02/15/2017 12:28:35 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,3,3,Yes,Not sure,Not sure,No,Not sure,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+259887523,02/15/2017 12:26:19 PM PST,02/15/2017 1:03:34 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Yes,No,No,No,Yes,Agree,Neither Support nor Oppose,To a large extent,Extremely familiar,15224
+259887555,02/15/2017 12:27:56 PM PST,02/15/2017 12:36:12 PM PST,COMPLETE,Survey Link,Yes,No,2,Neutral,2,2,Yes,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15206
+259887563,02/15/2017 12:28:36 PM PST,02/15/2017 12:35:09 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,4,Yes,No,No,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15668
+259887564,02/15/2017 12:28:37 PM PST,02/15/2017 12:37:32 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,4,Yes,No,Yes,No,Yes,Neutral,Actively Support,To a large extent,Mostly familiar,15213
+259891098,02/15/2017 12:34:19 PM PST,02/15/2017 12:35:59 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,4,Yes,Yes,No,No,Not sure,Neutral,No Opinion,To a large extent,Mostly familiar,15224
+259897523,02/15/2017 12:44:03 PM PST,02/15/2017 12:57:02 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,3,Yes,Yes,Not sure,Not sure,No,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15218
+259897889,02/15/2017 12:44:32 PM PST,02/15/2017 12:52:39 PM PST,COMPLETE,Survey Link,Not sure,Yes,2,Approve,2,4,Yes,Not sure,Not sure,No,Yes,Neutral,Actively Support,To some extent,Not familiar at all,15216
+259899972,02/15/2017 12:49:04 PM PST,02/15/2017 1:10:58 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,5,Yes,Yes,No,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15201
+259903728,02/15/2017 12:57:30 PM PST,02/15/2017 1:17:48 PM PST,COMPLETE,Survey Link,Yes,Not sure,2,Approve,2,4,Maybe,Yes,Yes,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15213
+259905104,02/15/2017 1:00:41 PM PST,02/15/2017 1:04:32 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,No experience,Yes,Yes,No,No,Not sure,Agree,Actively Support,To a moderate extent,Mostly Unfamiliar,15217
+259905107,02/15/2017 1:00:41 PM PST,02/15/2017 1:07:03 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,3,3,Yes,Yes,No,No,No,Neutral,Actively Support,To a large extent,Mostly familiar,15206
+259905280,02/15/2017 1:01:12 PM PST,02/15/2017 1:04:22 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Yes,Yes,No,Yes,Strongly Agree,Actively Support,To some extent,Somewhat familiar,15206
+259905884,02/15/2017 1:02:37 PM PST,02/15/2017 1:09:20 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,4,Yes,Yes,No,No,Not sure,Neutral,Actively Support,To a large extent,Extremely familiar,15217
+259906676,02/15/2017 1:04:59 PM PST,02/15/2017 1:12:01 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,3,Yes,Not sure,Yes,Yes,Yes,Agree,Actively Support,To a large extent,Somewhat familiar,15212
+259906907,02/15/2017 1:05:56 PM PST,02/15/2017 1:10:14 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,4,5,Yes,No,No,No,No,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15237
+259907689,02/15/2017 1:08:52 PM PST,02/15/2017 1:21:52 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Disapprove,3,2,Maybe,Yes,Yes,Yes,Yes,Strongly Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15201
+259908114,02/15/2017 1:10:44 PM PST,02/15/2017 1:12:16 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,3,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15201
+259908449,02/15/2017 1:12:00 PM PST,02/15/2017 1:20:04 PM PST,COMPLETE,Survey Link,No,Not sure,2,Somewhat Approve,2,3,Yes,Yes,No,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15218
+259908466,02/15/2017 1:12:04 PM PST,02/15/2017 1:22:07 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Yes,Yes,Yes,No,Not sure,Neutral,Actively Support,To a large extent,Extremely familiar,15201
+259908688,02/15/2017 1:12:48 PM PST,02/15/2017 1:17:02 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,4,Maybe,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a large extent,Mostly Unfamiliar,15238
+259909048,02/15/2017 1:14:56 PM PST,02/15/2017 1:18:27 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,1,4,Yes,Not sure,Not sure,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15217
+259909924,02/15/2017 1:17:45 PM PST,02/15/2017 1:20:28 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,3,No experience,Yes,Yes,Not sure,No,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15202
+259910067,02/15/2017 1:18:24 PM PST,02/15/2017 1:27:55 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,3,Yes,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15216
+259910479,02/15/2017 1:19:47 PM PST,02/15/2017 1:37:39 PM PST,COMPLETE,Survey Link,Yes,Not sure,2,Approve,3,5,Yes,Not sure,No,No,No,Neutral,Actively Support,To a large extent,Mostly familiar,15224
+259910489,02/15/2017 1:19:49 PM PST,02/15/2017 1:28:57 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,5,Yes,No,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15221
+259910667,02/15/2017 1:20:52 PM PST,02/15/2017 1:31:29 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,5,5,Yes,Yes,No,No,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15218
+259910782,02/15/2017 1:21:23 PM PST,02/15/2017 1:24:42 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,3,Yes,Yes,Yes,Yes,Yes,Strongly Disagree,Actively Support,To a large extent,Extremely familiar,15217
+259911451,02/15/2017 1:23:34 PM PST,02/15/2017 1:26:35 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,3,3,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Mostly Unfamiliar,15212
+259911620,02/15/2017 1:24:12 PM PST,02/15/2017 1:29:01 PM PST,COMPLETE,Survey Link,Yes,No,2,Somewhat Approve,2,3,Yes,Yes,Not sure,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15218
+259912420,02/15/2017 1:27:42 PM PST,02/15/2017 1:29:20 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Yes,Yes,No,Yes,Disagree,Actively Support,To a large extent,Mostly familiar,15212
+259912532,02/15/2017 1:28:07 PM PST,02/15/2017 1:32:11 PM PST,COMPLETE,Survey Link,Yes,No,2,Disapprove,3,1,No,Yes,Yes,Yes,Yes,Strongly Agree,Actively Oppose,To a large extent,Extremely familiar,15116
+259912845,02/15/2017 1:29:27 PM PST,02/15/2017 1:34:03 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,4,4,Yes,Yes,Yes,No,Yes,Disagree,Neither Support nor Oppose,To some extent,Somewhat familiar,15206
+259913911,02/15/2017 1:33:37 PM PST,02/15/2017 1:39:21 PM PST,COMPLETE,Survey Link,Yes,Not sure,2,Approve,5,4,Yes,Yes,No,No,Not sure,Agree,Actively Support,To a large extent,Mostly familiar,15237
+259914681,02/15/2017 1:36:55 PM PST,02/15/2017 1:49:37 PM PST,COMPLETE,Survey Link,No,No,2,Neutral,3,3,Not sure,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Not familiar at all,15215
+259914870,02/15/2017 1:37:35 PM PST,02/15/2017 1:40:52 PM PST,COMPLETE,Survey Link,No,No,2,Approve,2,5,Yes,Not sure,Not sure,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15217
+259915348,02/15/2017 1:39:38 PM PST,02/15/2017 1:45:25 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,5,Yes,No,No,No,No,Disagree,Actively Support,To a large extent,Extremely familiar,15209
+259918218,02/15/2017 1:50:43 PM PST,02/15/2017 1:54:11 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,4,Maybe,Not sure,No,No,Yes,Strongly Disagree,Neither Support nor Oppose,To a moderate extent,Not familiar at all,15233
+259919443,02/15/2017 1:55:33 PM PST,02/15/2017 1:57:08 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,3,4,Yes,No,No,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15232
+259920478,02/15/2017 2:00:21 PM PST,02/15/2017 2:06:15 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,2,3,Yes,Not sure,Yes,No,Yes,Neutral,Actively Support,To little extent,Mostly Unfamiliar,15206
+259920758,02/15/2017 2:02:01 PM PST,02/15/2017 2:11:30 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,4,Maybe,Not sure,No,No,Yes,Agree,Neither Support nor Oppose,To a large extent,Mostly familiar,15216
+259920828,02/15/2017 2:02:27 PM PST,02/15/2017 2:09:51 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,4,Yes,Yes,No,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,15224
+259922893,02/15/2017 2:12:21 PM PST,02/15/2017 2:17:51 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,5,Yes,Yes,Yes,Not sure,Not sure,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15226
+259924265,02/15/2017 2:19:00 PM PST,02/15/2017 2:30:44 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Maybe,Not sure,No,No,Yes,Agree,Actively Support,To some extent,Mostly Unfamiliar,15227
+259925536,02/15/2017 2:26:15 PM PST,02/15/2017 2:34:04 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,5,Yes,No,No,No,No,Neutral,Neither Support nor Oppose,To a large extent,Extremely familiar,15215
+259928399,02/15/2017 2:40:32 PM PST,02/15/2017 2:42:26 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,5,Yes,Yes,No,No,No,Strongly Disagree,Actively Support,To a large extent,Mostly familiar,15217
+259931053,02/15/2017 2:55:59 PM PST,02/15/2017 3:03:34 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,5,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Extremely familiar,16002
+259932022,02/15/2017 3:00:26 PM PST,02/15/2017 3:05:23 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,5,Yes,No,Not sure,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,15201
+259932479,02/15/2017 3:02:36 PM PST,02/15/2017 3:17:29 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,5,Maybe,Not sure,No,No,Yes,Neutral,No Opinion,To some extent,Mostly Unfamiliar,15206
+259934837,02/15/2017 3:13:46 PM PST,02/15/2017 3:19:08 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,4,4,Yes,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15212
+259935364,02/15/2017 3:16:19 PM PST,02/15/2017 3:35:18 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Yes,Yes,No,Not sure,Agree,Actively Support,To a large extent,Extremely familiar,15213
+259936951,02/15/2017 3:26:27 PM PST,02/15/2017 3:30:50 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Disapprove,3,3,No,Yes,Yes,Yes,Yes,Agree,Actively Oppose,To a moderate extent,Not familiar at all,15201
+259936954,02/15/2017 3:26:34 PM PST,02/15/2017 3:46:41 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,3,Yes,Not sure,No,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,15217
+259937499,02/15/2017 3:30:27 PM PST,02/15/2017 3:40:15 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Disapprove,3,3,Maybe,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Extremely familiar,15221
+259938339,02/15/2017 3:34:33 PM PST,02/15/2017 9:38:45 PM PST,COMPLETE,Survey Link,Yes,No,2,Somewhat Approve,3,4,Maybe,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To a large extent,Extremely familiar,15218
+259938780,02/15/2017 3:36:39 PM PST,02/15/2017 3:43:39 PM PST,COMPLETE,Survey Link,Not sure,Yes,2,Somewhat Approve,3,4,Yes,Not sure,Yes,No,Yes,Agree,Actively Support,To a large extent,Somewhat familiar,15217
+259939800,02/15/2017 3:42:51 PM PST,02/15/2017 3:58:41 PM PST,COMPLETE,Survey Link,No,Yes,2,Neutral,4,No experience,Yes,Yes,Not sure,Not sure,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15217
+259942465,02/15/2017 4:03:57 PM PST,02/15/2017 4:13:44 PM PST,COMPLETE,Survey Link,No,Yes,2,Neutral,3,4,Yes,Yes,Yes,No,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15208
+259943654,02/15/2017 4:14:05 PM PST,02/15/2017 4:19:15 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,1,3,Yes,Not sure,No,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15233
+259944002,02/15/2017 4:19:20 PM PST,02/15/2017 4:25:01 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,4,4,Not sure,Yes,Yes,Not sure,Not sure,Neutral,No Opinion,To a moderate extent,Somewhat familiar,15217
+259944120,02/15/2017 4:20:38 PM PST,02/15/2017 4:23:55 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,4,4,Yes,Yes,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15203
+259944816,02/15/2017 4:29:17 PM PST,02/15/2017 4:34:02 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,5,Yes,Yes,No,No,No,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+259945539,02/15/2017 4:39:04 PM PST,02/15/2017 4:43:57 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,3,Yes,Not sure,Not sure,Not sure,Not sure,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15228
+259947255,02/15/2017 4:59:06 PM PST,02/15/2017 5:06:30 PM PST,COMPLETE,Survey Link,No,Not sure,2,Approve,3,4,Yes,Not sure,Not sure,Not sure,Not sure,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15201
+259947561,02/15/2017 5:05:51 PM PST,02/15/2017 5:14:40 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,4,Yes,Yes,Not sure,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+259948000,02/15/2017 5:13:03 PM PST,02/15/2017 5:18:28 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,4,Yes,Yes,No,No,Not sure,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15201
+259948027,02/15/2017 5:13:21 PM PST,02/15/2017 5:16:11 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,4,Maybe,Yes,Not sure,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Mostly familiar,15211
+259949451,02/15/2017 5:43:28 PM PST,02/15/2017 5:48:51 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,3,Yes,Not sure,No,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15217
+259949462,02/15/2017 5:43:51 PM PST,02/15/2017 5:54:27 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,3,Maybe,Not sure,Yes,No,Yes,Neutral,Neither Support nor Oppose,To a large extent,Mostly familiar,15217
+259949990,02/15/2017 5:54:43 PM PST,02/15/2017 6:04:10 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15206
+259950370,02/15/2017 6:02:19 PM PST,02/15/2017 6:05:46 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,5,No experience,Yes,No,No,Not sure,No,Neutral,Actively Support,To a large extent,Somewhat familiar,15237
+259952565,02/15/2017 7:06:49 PM PST,02/15/2017 7:09:28 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,3,4,Yes,Not sure,Yes,Not sure,Yes,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15146
+259956637,02/15/2017 8:58:28 PM PST,02/15/2017 9:02:44 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,1,5,Yes,No,No,No,No,Strongly Disagree,Actively Support,To a moderate extent,Somewhat familiar,15217
+259996557,02/16/2017 2:02:38 AM PST,02/16/2017 2:06:08 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,4,Maybe,No,No,No,Yes,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15214
+260006143,02/16/2017 3:46:08 AM PST,02/16/2017 3:51:10 AM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,3,Yes,Yes,No,No,No,Neutral,Neither Support nor Oppose,To little extent,Somewhat familiar,15212
+260009968,02/16/2017 5:17:17 AM PST,02/16/2017 5:27:38 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,4,Yes,Yes,Not sure,No,Yes,Agree,Actively Support,To a large extent,Somewhat familiar,15212
+260012019,02/16/2017 5:51:10 AM PST,02/16/2017 5:55:45 AM PST,COMPLETE,Survey Link,Yes,No,2,Somewhat Approve,3,4,Yes,Not sure,Not sure,Not sure,Not sure,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15206
+260013556,02/16/2017 6:09:53 AM PST,02/16/2017 6:22:09 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15219
+260015677,02/16/2017 6:38:16 AM PST,02/16/2017 6:45:17 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,5,Yes,No,No,No,Yes,Neutral,Actively Support,To a moderate extent,Mostly Unfamiliar,15217
+260018306,02/16/2017 7:30:25 AM PST,02/16/2017 8:13:53 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,3,3,Not sure,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,15226
+260020988,02/16/2017 8:20:14 AM PST,02/16/2017 8:24:56 AM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,5,Yes,Not sure,No,Not sure,Yes,Strongly Disagree,Actively Support,To a large extent,Extremely familiar,15206
+260021247,02/16/2017 8:25:46 AM PST,02/16/2017 8:30:18 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,4,Yes,Yes,Not sure,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15232
+260022011,02/16/2017 8:36:26 AM PST,02/16/2017 8:47:52 AM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Yes,Yes,No,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15201
+260028102,02/16/2017 10:18:05 AM PST,02/16/2017 10:32:15 AM PST,COMPLETE,Survey Link,Not sure,Yes,2,Somewhat Approve,3,3,Yes,Yes,No,No,No,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly familiar,15213
+260029298,02/16/2017 10:36:19 AM PST,02/16/2017 10:43:25 AM PST,COMPLETE,Survey Link,Yes,No,2,Approve,4,5,Yes,Yes,Not sure,No,No,Agree,Actively Support,To a large extent,Mostly familiar,15208
+260035013,02/16/2017 11:51:36 AM PST,02/16/2017 11:56:17 AM PST,COMPLETE,Survey Link,Yes,No,2,Somewhat Approve,3,No experience,Maybe,Yes,Not sure,Not sure,Yes,Neutral,Actively Support,To some extent,Somewhat familiar,15237
+260057328,02/16/2017 11:32:59 PM PST,02/16/2017 11:39:47 PM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,2,3,Yes,Yes,Yes,Not sure,Yes,Strongly Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15216
+260069024,02/17/2017 10:41:50 AM PST,02/17/2017 10:50:42 AM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,2,No experience,Maybe,Not sure,Yes,No,Yes,Disagree,Neither Support nor Oppose,To some extent,Mostly familiar,15212
+260069468,02/17/2017 11:07:29 AM PST,02/17/2017 11:16:31 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,3,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15201
+260070384,02/17/2017 12:02:06 PM PST,02/17/2017 12:26:42 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,5,Yes,No,No,No,No,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+260070999,02/17/2017 12:32:20 PM PST,02/17/2017 12:36:55 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15232
+260077739,02/17/2017 4:36:21 PM PST,02/17/2017 4:40:51 PM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,1,4,Yes,Yes,No,No,No,Disagree,Actively Support,To a large extent,Extremely familiar,15217
+260078259,02/17/2017 5:03:21 PM PST,02/17/2017 5:12:28 PM PST,COMPLETE,Survey Link,Yes,No,2,Somewhat Approve,4,3,Maybe,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To little extent,Not familiar at all,15208
+260112328,02/18/2017 9:09:36 AM PST,02/18/2017 9:12:31 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,2,3,Maybe,Yes,Not sure,Not sure,Yes,Disagree,No Opinion,To some extent,Mostly Unfamiliar,15213
+260165325,02/20/2017 6:05:01 AM PST,02/20/2017 6:07:39 AM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Approve,3,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15212
+260165327,02/20/2017 6:05:04 AM PST,02/20/2017 6:09:01 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,4,3,Not sure,Yes,Not sure,Yes,Yes,Neutral,No Opinion,To a moderate extent,Mostly Unfamiliar,15206
+260165387,02/20/2017 6:06:57 AM PST,02/20/2017 6:08:35 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,4,5,Yes,Yes,No,No,Yes,Disagree,Actively Support,To a large extent,Mostly familiar,15221
+260165458,02/20/2017 6:10:27 AM PST,02/20/2017 6:15:05 AM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,4,Yes,Not sure,Yes,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15224
+260165627,02/20/2017 6:18:12 AM PST,02/20/2017 6:22:49 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,3,4,Yes,Not sure,No,No,Yes,Neutral,Neither Support nor Oppose,To little extent,Somewhat familiar,15217
+260165759,02/20/2017 6:23:41 AM PST,02/20/2017 7:42:44 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Approve,3,3,Yes,Yes,Not sure,No,Yes,Neutral,Actively Support,To some extent,Somewhat familiar,15201
+260166025,02/20/2017 6:33:35 AM PST,02/20/2017 6:35:30 AM PST,COMPLETE,Survey Link,Yes,No,2,Approve,2,5,Yes,Not sure,No,No,No,Disagree,Neither Support nor Oppose,To a large extent,Extremely familiar,15217
+260166208,02/20/2017 6:40:40 AM PST,02/20/2017 6:56:40 AM PST,COMPLETE,Survey Link,No,Yes,2,Approve,4,5,Yes,Not sure,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To a large extent,Extremely familiar,15202
+260166330,02/20/2017 6:46:50 AM PST,02/20/2017 6:49:45 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Neutral,3,3,Yes,Yes,Yes,Yes,Yes,Neutral,No Opinion,To little extent,Not familiar at all,15206
+260166352,02/20/2017 6:47:51 AM PST,02/20/2017 6:53:27 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,2,4,Maybe,Yes,No,No,No,Agree,Actively Support,To a moderate extent,Mostly familiar,15212
+260167294,02/20/2017 7:31:58 AM PST,02/20/2017 7:36:50 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,4,Yes,Yes,Not sure,No,Yes,Neutral,Actively Support,To some extent,Mostly Unfamiliar,15217
+260167536,02/20/2017 7:42:52 AM PST,02/20/2017 7:47:43 AM PST,COMPLETE,Survey Link,Not sure,Yes,2,Approve,2,4,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To a large extent,Mostly familiar,15206
+260171430,02/20/2017 11:22:30 AM PST,02/20/2017 11:26:44 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Disapprove,3,3,Yes,Yes,No,No,Yes,Disagree,Actively Support,To some extent,Somewhat familiar,15212
+260171634,02/20/2017 11:35:21 AM PST,02/20/2017 11:41:52 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Somewhat Disapprove,4,4,Yes,Yes,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15218
+260171643,02/20/2017 11:35:52 AM PST,02/20/2017 11:39:32 AM PST,COMPLETE,Survey Link,Yes,No,2,Neutral,3,No experience,Maybe,Not sure,Not sure,Yes,Yes,Disagree,Neither Support nor Oppose,To some extent,Somewhat familiar,15221
+260171863,02/20/2017 11:47:20 AM PST,02/20/2017 1:06:25 PM PST,COMPLETE,Survey Link,No,No,2,Approve,5,5,Yes,Yes,Not sure,Not sure,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15136
+260171886,02/20/2017 11:48:07 AM PST,02/20/2017 11:51:39 AM PST,COMPLETE,Survey Link,No,Yes,2,Somewhat Disapprove,3,4,Maybe,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15129
+260173467,02/20/2017 12:48:09 PM PST,02/20/2017 12:54:20 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,5,Yes,Not sure,Yes,Not sure,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15217
+260174165,02/20/2017 12:59:24 PM PST,02/20/2017 1:09:08 PM PST,COMPLETE,Survey Link,Yes,Not sure,2,Somewhat Approve,2,4,Yes,Yes,Not sure,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Mostly Unfamiliar,15201
+260174244,02/20/2017 1:01:13 PM PST,02/20/2017 1:07:59 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,4,Yes,Not sure,No,No,No,Disagree,Actively Support,To a large extent,Extremely familiar,15212
+260178162,02/20/2017 2:59:56 PM PST,02/20/2017 3:11:48 PM PST,COMPLETE,Survey Link,No,Yes,2,Approve,2,5,Yes,No,Yes,No,Yes,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15131
+260180851,02/20/2017 4:37:19 PM PST,02/20/2017 4:40:26 PM PST,COMPLETE,Survey Link,No,Yes,2,Neutral,3,3,Maybe,Yes,Yes,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Not familiar at all,15090
+260183601,02/20/2017 6:42:34 PM PST,02/20/2017 6:51:03 PM PST,COMPLETE,Survey Link,No,No,2,Somewhat Approve,4,4,Yes,Yes,No,Not sure,Yes,Neutral,Neither Support nor Oppose,To a large extent,Mostly familiar,15024
+260185031,02/20/2017 7:42:29 PM PST,02/20/2017 7:55:11 PM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,4,Yes,Yes,Yes,No,Not sure,Neutral,No Opinion,To a moderate extent,Somewhat familiar,15201
+260213923,02/21/2017 3:22:46 AM PST,02/21/2017 3:26:06 AM PST,COMPLETE,Survey Link,No,Yes,2,Neutral,3,2,No,Not sure,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15235
+260216030,02/21/2017 5:31:38 AM PST,02/21/2017 5:36:17 AM PST,COMPLETE,Survey Link,Yes,Yes,2,Approve,3,3,Not sure,Not sure,Not sure,Not sure,Not sure,Disagree,Neither Support nor Oppose,To some extent,Somewhat familiar,15201
+260218356,02/21/2017 7:23:22 AM PST,02/21/2017 7:30:11 AM PST,COMPLETE,Survey Link,Yes,No,2,Approve,3,3,Maybe,Not sure,Yes,Yes,Not sure,Disagree,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15206
+259891240,02/15/2017 12:34:29 PM PST,02/15/2017 12:39:20 PM PST,COMPLETE,Survey Link,Not sure,Yes,1,Approve,2,5,Yes,Yes,No,No,Yes,Strongly Disagree,No Opinion,To a moderate extent,Somewhat familiar,15222
+259905970,02/15/2017 1:02:43 PM PST,02/15/2017 1:10:24 PM PST,COMPLETE,Survey Link,Yes,Yes,1,Approve,2,4,Yes,Not sure,No,No,Not sure,Neutral,Actively Support,To little extent,Mostly familiar,15217
+259908129,02/15/2017 1:10:47 PM PST,02/15/2017 1:17:11 PM PST,COMPLETE,Survey Link,Yes,Yes,1,Approve,3,5,Yes,No,No,No,No,Strongly Agree,Actively Support,To a large extent,Somewhat familiar,15212
+260004862,02/16/2017 3:13:29 AM PST,02/16/2017 3:17:36 AM PST,COMPLETE,Survey Link,Yes,Yes,1,Somewhat Approve,3,4,Yes,No,No,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15205
+260010933,02/16/2017 5:34:33 AM PST,02/16/2017 5:44:26 AM PST,COMPLETE,Survey Link,Yes,Yes,1,Somewhat Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a large extent,Extremely familiar,15206
+260073461,02/17/2017 2:16:09 PM PST,02/17/2017 2:22:54 PM PST,COMPLETE,Survey Link,Yes,Yes,1,Approve,2,5,Yes,No,No,Yes,Yes,Neutral,Actively Support,To a large extent,Extremely familiar,15212
+260133202,02/19/2017 4:57:55 PM PST,02/19/2017 5:00:13 PM PST,COMPLETE,Survey Link,Yes,Not sure,1,Approve,2,4,Maybe,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To a large extent,Somewhat familiar,15213
+260176274,02/20/2017 1:51:09 PM PST,02/21/2017 6:25:27 AM PST,COMPLETE,Survey Link,Not sure,Yes,1,Approve,2,5,Yes,No,No,No,Yes,Neutral,Actively Support,To a large extent,Mostly familiar,15213
+259887317,02/15/2017 12:19:48 PM PST,02/15/2017 12:22:47 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Maybe,Yes,Yes,No,No,Neutral,No Opinion,To little extent,Somewhat familiar,15101
+259887333,02/15/2017 12:19:55 PM PST,02/15/2017 12:27:32 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Maybe,Yes,No,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Mostly familiar,15206
+259887370,02/15/2017 12:20:33 PM PST,02/15/2017 12:25:51 PM PST,COMPLETE,Survey Link,No,Not sure,,Approve,No experience,No experience,Yes,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To a large extent,Somewhat familiar,15201
+259887392,02/15/2017 12:21:07 PM PST,02/15/2017 12:23:41 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,5,Yes,Yes,No,Yes,Yes,Neutral,Neither Support nor Oppose,Not at all,Not familiar at all,15218
+259887401,02/15/2017 12:21:21 PM PST,02/15/2017 12:24:15 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15217
+259887437,02/15/2017 12:22:25 PM PST,02/15/2017 12:28:47 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,4,Yes,Yes,Yes,No,No,Agree,Actively Support,To a large extent,Extremely familiar,15017
+259887442,02/15/2017 12:22:35 PM PST,02/15/2017 12:28:11 PM PST,COMPLETE,Survey Link,Not sure,Yes,,Approve,3,4,Yes,Not sure,No,No,Not sure,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15215
+259887468,02/15/2017 12:23:12 PM PST,02/15/2017 12:27:13 PM PST,COMPLETE,Survey Link,No,No,,Neutral,2,3,Yes,Yes,No,Not sure,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly familiar,15228
+259887472,02/15/2017 12:23:25 PM PST,02/15/2017 12:28:15 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,No experience,Yes,Yes,Not sure,Not sure,Not sure,Agree,Neither Support nor Oppose,To a large extent,Extremely familiar,15217
+259887487,02/15/2017 12:24:25 PM PST,02/15/2017 12:26:50 PM PST,COMPLETE,Survey Link,No,Yes,,Approve,2,1,Yes,Yes,No,No,No,Neutral,Actively Support,To some extent,Mostly familiar,15232
+259887544,02/15/2017 12:27:22 PM PST,02/15/2017 12:31:36 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Yes,Not sure,No,No,No,Strongly Disagree,Neither Support nor Oppose,To a large extent,Mostly familiar,15024
+259887549,02/15/2017 12:27:36 PM PST,02/15/2017 1:30:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259887553,02/15/2017 12:27:49 PM PST,02/15/2017 12:35:32 PM PST,COMPLETE,Survey Link,No,No,,Disapprove,2,No experience,No,Yes,Yes,Yes,Yes,Agree,Actively Oppose,To some extent,Mostly Unfamiliar,15201
+259887566,02/15/2017 12:28:40 PM PST,02/15/2017 12:31:07 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Yes,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15217
+259889337,02/15/2017 12:32:17 PM PST,02/15/2017 12:42:07 PM PST,COMPLETE,Survey Link,No,No,,Approve,1,5,Yes,No,No,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,15216
+259893644,02/15/2017 12:37:57 PM PST,02/15/2017 1:40:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259899985,02/15/2017 12:49:07 PM PST,02/15/2017 1:03:06 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,5,Yes,Yes,No,No,Yes,Disagree,Actively Support,To a large extent,Mostly familiar,15218
+259900145,02/15/2017 12:49:24 PM PST,02/15/2017 1:44:37 PM PST,COMPLETE,Survey Link,Yes,No,,Approve,2,4,Yes,Yes,Not sure,Not sure,Yes,Strongly Agree,Actively Support,To a large extent,Mostly familiar,15211
+259903092,02/15/2017 12:56:09 PM PST,02/15/2017 12:59:13 PM PST,COMPLETE,Survey Link,No,No,,Neutral,2,1,No,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15217
+259905081,02/15/2017 1:00:39 PM PST,02/15/2017 1:04:29 PM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Mostly familiar,15202
+259905576,02/15/2017 1:01:52 PM PST,02/15/2017 2:05:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259905670,02/15/2017 1:02:08 PM PST,02/15/2017 1:03:35 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,2,Yes,Not sure,No,No,Yes,Disagree,Neither Support nor Oppose,To some extent,Somewhat familiar,11211
+259906062,02/15/2017 1:02:58 PM PST,02/15/2017 1:07:44 PM PST,COMPLETE,Survey Link,No,No,,Neutral,2,3,Maybe,Yes,Not sure,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15224
+259907071,02/15/2017 1:06:22 PM PST,02/15/2017 1:09:08 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,2,2,Maybe,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15215
+259907721,02/15/2017 1:09:00 PM PST,02/15/2017 2:15:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259907840,02/15/2017 1:09:36 PM PST,02/15/2017 1:12:37 PM PST,COMPLETE,Survey Link,No,No,,Approve,No experience,No experience,Maybe,Yes,Yes,Yes,Yes,Agree,Actively Support,To some extent,Not familiar at all,26003
+259908158,02/15/2017 1:10:53 PM PST,02/15/2017 1:17:28 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Neutral,3,2,Yes,Yes,No,No,Yes,Agree,Actively Support,To a moderate extent,Extremely familiar,15218
+259908404,02/15/2017 1:11:47 PM PST,02/15/2017 1:15:52 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,5,Yes,Yes,Yes,No,Yes,Disagree,Neither Support nor Oppose,To a moderate extent,Mostly familiar,15221
+259908839,02/15/2017 1:13:38 PM PST,02/15/2017 1:19:33 PM PST,COMPLETE,Survey Link,No,Yes,,Somewhat Approve,3,3,Yes,Yes,No,Not sure,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15222
+259910093,02/15/2017 1:18:36 PM PST,02/15/2017 1:23:56 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Yes,Yes,Yes,Yes,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15201
+259911106,02/15/2017 1:22:11 PM PST,02/15/2017 1:29:11 PM PST,COMPLETE,Survey Link,No,No,,Approve,4,4,Yes,Yes,No,No,No,Disagree,Neither Support nor Oppose,To a large extent,Mostly familiar,15217
+259911400,02/15/2017 1:23:24 PM PST,02/15/2017 1:36:11 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Maybe,Yes,Not sure,No,Not sure,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15205
+259912130,02/15/2017 1:26:14 PM PST,02/15/2017 1:29:23 PM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,3,5,Yes,Yes,Yes,No,Not sure,Agree,Actively Support,To some extent,Somewhat familiar,15219
+259912743,02/15/2017 1:28:59 PM PST,02/15/2017 1:38:20 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Approve,2,No experience,Maybe,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15146
+259912744,02/15/2017 1:28:59 PM PST,02/15/2017 2:35:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259912789,02/15/2017 1:29:09 PM PST,02/15/2017 1:36:32 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Maybe,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Mostly Unfamiliar,15206
+259912943,02/15/2017 1:29:52 PM PST,02/15/2017 2:35:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259913409,02/15/2017 1:31:41 PM PST,02/15/2017 1:40:18 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,3,Yes,Yes,Not sure,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15229
+259914487,02/15/2017 1:35:55 PM PST,02/15/2017 1:58:21 PM PST,COMPLETE,Survey Link,No,No,,Neutral,3,3,Maybe,Yes,Not sure,Not sure,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15110
+259914805,02/15/2017 1:37:21 PM PST,02/15/2017 1:44:04 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,5,Yes,Yes,No,No,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15120
+259914868,02/15/2017 1:37:33 PM PST,02/15/2017 1:44:46 PM PST,COMPLETE,Survey Link,No,No,,Approve,4,5,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15217
+259917022,02/15/2017 1:46:13 PM PST,02/15/2017 2:55:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259917179,02/15/2017 1:47:06 PM PST,02/15/2017 1:57:45 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Yes,Yes,Not sure,Not sure,Not sure,Neutral,Neither Support nor Oppose,To a large extent,Mostly Unfamiliar,15203
+259918070,02/15/2017 1:50:01 PM PST,02/15/2017 2:04:05 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Approve,2,5,Yes,Not sure,No,No,Not sure,Agree,Actively Support,To a large extent,Extremely familiar,15221
+259918593,02/15/2017 1:52:20 PM PST,02/15/2017 1:54:14 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,No,No,No,Disagree,Actively Support,To a large extent,Extremely familiar,15217
+259919727,02/15/2017 1:56:53 PM PST,02/15/2017 1:58:36 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,3,Yes,Yes,No,No,Yes,Disagree,Neither Support nor Oppose,To a large extent,Extremely familiar,15217
+259920604,02/15/2017 2:01:10 PM PST,02/15/2017 2:04:02 PM PST,COMPLETE,Survey Link,No,No,,Neutral,3,3,Yes,Yes,Not sure,Not sure,No,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15212
+259920713,02/15/2017 2:01:47 PM PST,02/15/2017 2:09:47 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Approve,2,3,Yes,Yes,Yes,No,No,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15139
+259921043,02/15/2017 2:03:20 PM PST,02/15/2017 2:06:18 PM PST,COMPLETE,Survey Link,No,No,,Neutral,2,4,Yes,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15063
+259922197,02/15/2017 2:08:13 PM PST,02/15/2017 2:12:16 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,2,2,Not sure,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,16033
+259923417,02/15/2017 2:14:19 PM PST,02/15/2017 2:21:53 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,No experience,Yes,Yes,No,Not sure,No,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15071
+259923473,02/15/2017 2:14:43 PM PST,02/15/2017 2:17:17 PM PST,COMPLETE,Survey Link,Yes,No,,Approve,4,4,Yes,No,Yes,No,Not sure,Disagree,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15201
+259924745,02/15/2017 2:21:57 PM PST,02/15/2017 3:25:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259924983,02/15/2017 2:23:16 PM PST,02/15/2017 2:33:45 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,4,Maybe,Yes,No,Yes,Yes,Agree,Actively Support,To some extent,Mostly Unfamiliar,17363
+259925382,02/15/2017 2:25:14 PM PST,02/15/2017 2:32:19 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,2,Not sure,No,Yes,Not sure,Yes,Neutral,Neither Support nor Oppose,To little extent,Not familiar at all,15228
+259926818,02/15/2017 2:31:39 PM PST,02/15/2017 3:50:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259928691,02/15/2017 2:42:40 PM PST,02/15/2017 2:46:30 PM PST,COMPLETE,Survey Link,Not sure,No,,Somewhat Disapprove,1,3,Yes,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15212
+259928912,02/15/2017 2:43:55 PM PST,02/15/2017 3:50:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259929351,02/15/2017 2:45:33 PM PST,02/15/2017 2:55:12 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Disapprove,4,1,No,Yes,Yes,Yes,Yes,Strongly Agree,Actively Oppose,To a large extent,Extremely familiar,15232
+259930799,02/15/2017 2:53:43 PM PST,02/15/2017 2:56:47 PM PST,COMPLETE,Survey Link,No,No,,Neutral,1,No experience,Not sure,Not sure,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Not familiar at all,15131
+259931840,02/15/2017 2:59:45 PM PST,02/15/2017 3:08:07 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,Not sure,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15203
+259933594,02/15/2017 3:07:52 PM PST,02/15/2017 3:10:02 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,5,Yes,Yes,No,No,Yes,Strongly Disagree,Actively Support,To a moderate extent,Extremely familiar,15217
+259935726,02/15/2017 3:18:11 PM PST,02/15/2017 3:19:41 PM PST,COMPLETE,Survey Link,Yes,No,,Somewhat Disapprove,3,3,No,Yes,Yes,Yes,Not sure,Neutral,No Opinion,To some extent,Somewhat familiar,15206
+259936016,02/15/2017 3:20:59 PM PST,02/15/2017 3:24:04 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,2,2,Maybe,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To little extent,Mostly Unfamiliar,15217
+259937360,02/15/2017 3:29:54 PM PST,02/15/2017 3:32:03 PM PST,COMPLETE,Survey Link,No,No,,Neutral,4,5,Yes,Yes,Not sure,No,Yes,Disagree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15215
+259938976,02/15/2017 3:38:06 PM PST,02/15/2017 3:39:53 PM PST,COMPLETE,Survey Link,No,Yes,,Approve,3,5,Yes,Yes,No,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15232
+259941115,02/15/2017 3:52:00 PM PST,02/15/2017 4:00:03 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,4,2,No,Yes,Yes,No,Not sure,Agree,Neither Support nor Oppose,To some extent,Not familiar at all,15044
+259942164,02/15/2017 4:01:04 PM PST,02/15/2017 4:05:47 PM PST,COMPLETE,Survey Link,Yes,No,,Somewhat Approve,2,3,Yes,Yes,Not sure,Not sure,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15217
+259946333,02/15/2017 4:48:30 PM PST,02/15/2017 4:57:13 PM PST,COMPLETE,Survey Link,No,No,,Disapprove,4,1,No,Yes,Yes,Yes,Yes,Disagree,Actively Oppose,To a large extent,Extremely familiar,15301
+259947792,02/15/2017 5:08:52 PM PST,02/15/2017 6:20:24 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259949418,02/15/2017 5:43:10 PM PST,02/15/2017 5:46:24 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15228
+259950356,02/15/2017 6:01:51 PM PST,02/15/2017 11:30:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+259950495,02/15/2017 6:05:56 PM PST,02/15/2017 6:10:35 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Disapprove,4,1,Not sure,Yes,Yes,Yes,Not sure,Agree,Actively Oppose,To a moderate extent,Somewhat familiar,15221
+259950753,02/15/2017 6:11:47 PM PST,02/15/2017 6:19:06 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Approve,2,4,Yes,Not sure,Yes,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15217
+259952201,02/15/2017 6:55:46 PM PST,02/15/2017 6:57:28 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,2,2,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15217
+259952262,02/15/2017 6:58:30 PM PST,02/15/2017 7:00:19 PM PST,COMPLETE,Survey Link,Yes,No,,Approve,3,5,Yes,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To a large extent,Extremely familiar,15206
+259952342,02/15/2017 7:00:25 PM PST,02/15/2017 7:04:38 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15218
+259952385,02/15/2017 7:02:12 PM PST,02/15/2017 7:09:51 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Neutral,4,2,Not sure,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15221
+259952387,02/15/2017 7:02:15 PM PST,02/15/2017 7:06:46 PM PST,COMPLETE,Survey Link,Not sure,No,,Approve,3,5,Yes,Yes,No,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,15201
+259952545,02/15/2017 7:06:25 PM PST,02/15/2017 7:19:10 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,4,Yes,No,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15009
+259952781,02/15/2017 7:14:40 PM PST,02/15/2017 7:17:03 PM PST,COMPLETE,Survey Link,Yes,No,,Neutral,5,5,Yes,Yes,Not sure,No,No,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly familiar,15221
+259952878,02/15/2017 7:16:41 PM PST,02/15/2017 7:19:56 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,4,Yes,Yes,No,Yes,Yes,Neutral,Actively Support,To some extent,Somewhat familiar,15202
+259955248,02/15/2017 8:12:57 PM PST,02/15/2017 8:17:51 PM PST,COMPLETE,Survey Link,No,No,,Neutral,3,3,Maybe,Not sure,Not sure,Not sure,Not sure,Neutral,No Opinion,To little extent,Not familiar at all,15206
+259955405,02/15/2017 8:16:15 PM PST,02/15/2017 8:21:40 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Disapprove,3,3,Not sure,Yes,Yes,Yes,Yes,Agree,No Opinion,To little extent,Not familiar at all,15206
+259956634,02/15/2017 8:58:00 PM PST,02/15/2017 9:01:55 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Neutral,Actively Support,To little extent,Mostly Unfamiliar,15206
+260005243,02/16/2017 3:24:52 AM PST,02/16/2017 3:29:48 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,3,Yes,Yes,No,No,Yes,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15668
+260006470,02/16/2017 3:55:34 AM PST,02/16/2017 4:03:32 AM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,3,4,Yes,Yes,No,No,Not sure,Agree,Actively Support,To a moderate extent,Somewhat familiar,15208
+260006513,02/16/2017 3:58:54 AM PST,02/16/2017 4:00:59 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,4,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15116
+260008876,02/16/2017 4:53:52 AM PST,02/16/2017 4:58:05 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,4,No experience,Yes,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15238
+260009742,02/16/2017 5:12:40 AM PST,02/16/2017 5:17:39 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Disapprove,2,2,Maybe,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15209
+260013129,02/16/2017 6:04:44 AM PST,02/16/2017 6:17:16 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Neutral,3,4,Yes,Yes,Not sure,Yes,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Mostly Unfamiliar,15219
+260020636,02/16/2017 8:13:42 AM PST,02/16/2017 8:15:59 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,2,2,Maybe,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To a large extent,Somewhat familiar,15206
+260022434,02/16/2017 8:44:03 AM PST,02/16/2017 8:51:21 AM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Yes,Not sure,No,No,Yes,Neutral,Actively Support,To a large extent,Mostly familiar,15203
+260022647,02/16/2017 8:49:21 AM PST,02/16/2017 8:52:58 AM PST,COMPLETE,Survey Link,Yes,Yes,,Somewhat Approve,3,3,Yes,Yes,Not sure,Not sure,Yes,Neutral,Actively Support,To some extent,Mostly Unfamiliar,15232
+260024802,02/16/2017 9:24:47 AM PST,02/16/2017 10:30:23 AM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260028891,02/16/2017 10:28:25 AM PST,02/16/2017 10:54:30 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Disapprove,1,1,Maybe,Yes,Yes,Yes,Yes,Strongly Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15136
+260031155,02/16/2017 11:05:43 AM PST,02/16/2017 11:12:30 AM PST,COMPLETE,Survey Link,No,No,,Approve,1,4,Yes,Not sure,Not sure,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15204
+260036853,02/16/2017 12:17:51 PM PST,02/16/2017 12:21:02 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,No experience,Not sure,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Mostly Unfamiliar,15217
+260037065,02/16/2017 12:20:52 PM PST,02/16/2017 1:25:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260043835,02/16/2017 2:19:15 PM PST,02/16/2017 2:22:10 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,No experience,Maybe,Not sure,Not sure,Not sure,Not sure,Neutral,No Opinion,To a large extent,Somewhat familiar,15206
+260044917,02/16/2017 2:43:02 PM PST,02/16/2017 2:57:56 PM PST,COMPLETE,Survey Link,Not sure,No,,Approve,3,4,Yes,Yes,Yes,Not sure,Not sure,Neutral,Neither Support nor Oppose,To a large extent,Mostly familiar,15147
+260047877,02/16/2017 3:58:32 PM PST,02/16/2017 4:06:14 PM PST,COMPLETE,Survey Link,Yes,No,,Approve,4,3,Yes,No,No,No,No,Disagree,Actively Support,To some extent,Somewhat familiar,15217
+260048794,02/16/2017 4:29:20 PM PST,02/16/2017 4:31:49 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,3,Yes,Not sure,Not sure,Not sure,Not sure,Agree,Actively Support,To some extent,Mostly Unfamiliar,15211
+260053790,02/16/2017 8:24:12 PM PST,02/16/2017 9:35:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260062779,02/17/2017 5:59:52 AM PST,02/17/2017 6:17:10 AM PST,COMPLETE,Survey Link,No,No,,Neutral,1,2,Not sure,No,Not sure,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,15132
+260065049,02/17/2017 7:39:20 AM PST,02/17/2017 7:42:41 AM PST,COMPLETE,Survey Link,No,No,,Approve,4,5,Yes,Yes,No,No,Yes,Disagree,Neither Support nor Oppose,To a large extent,Somewhat familiar,15217
+260068245,02/17/2017 9:53:44 AM PST,02/17/2017 11:00:23 AM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260069575,02/17/2017 11:17:15 AM PST,02/17/2017 11:19:36 AM PST,COMPLETE,Survey Link,No,No,,Neutral,2,5,Not sure,Yes,Yes,Yes,Yes,Agree,Actively Oppose,To some extent,Mostly Unfamiliar,15237
+260069603,02/17/2017 11:19:55 AM PST,02/17/2017 11:43:17 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Yes,Not sure,Not sure,No,Not sure,Agree,Actively Support,To a moderate extent,Somewhat familiar,15211
+260070843,02/17/2017 12:24:12 PM PST,02/17/2017 1:35:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260076945,02/17/2017 4:04:38 PM PST,02/17/2017 4:08:39 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Yes,Yes,Yes,Not sure,Yes,Strongly Agree,Actively Support,To some extent,Somewhat familiar,15217
+260082116,02/17/2017 9:40:34 PM PST,02/17/2017 9:45:48 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15217
+260110742,02/18/2017 7:09:01 AM PST,02/18/2017 7:16:53 AM PST,COMPLETE,Survey Link,No,No,,Neutral,1,4,Yes,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15221
+260110924,02/18/2017 7:23:24 AM PST,02/18/2017 8:30:23 AM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260114942,02/18/2017 12:51:45 PM PST,02/18/2017 12:57:17 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,4,Yes,Not sure,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To a large extent,Mostly familiar,15212
+260123207,02/19/2017 5:05:51 AM PST,02/19/2017 5:08:01 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Yes,Yes,No,No,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15120
+260126249,02/19/2017 9:48:51 AM PST,02/19/2017 9:51:05 AM PST,COMPLETE,Survey Link,Yes,Yes,,Neutral,3,3,Yes,Yes,Yes,Not sure,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15222
+260127861,02/19/2017 11:23:54 AM PST,02/19/2017 11:26:12 AM PST,COMPLETE,Survey Link,Not sure,Yes,,Approve,3,5,Yes,Yes,No,No,No,Neutral,Actively Support,To a large extent,Somewhat familiar,15206
+260165296,02/20/2017 6:04:14 AM PST,02/20/2017 6:05:39 AM PST,COMPLETE,Survey Link,No,No,,Disapprove,3,No experience,Maybe,Yes,No,Yes,Yes,Agree,Actively Oppose,To some extent,Somewhat familiar,15207
+260165346,02/20/2017 6:05:47 AM PST,02/20/2017 6:07:43 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,4,4,Not sure,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15212
+260165428,02/20/2017 6:08:50 AM PST,02/20/2017 6:19:08 AM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,Not sure,Not sure,Yes,Agree,Actively Support,To little extent,Mostly Unfamiliar,15218
+260165474,02/20/2017 6:10:55 AM PST,02/20/2017 6:13:12 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,4,Yes,Not sure,Not sure,Not sure,Yes,Agree,Actively Support,To a moderate extent,Somewhat familiar,15218
+260165565,02/20/2017 6:15:06 AM PST,02/20/2017 6:18:50 AM PST,COMPLETE,Survey Link,Not sure,No,,Approve,2,4,Yes,Yes,No,Not sure,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15206
+260165587,02/20/2017 6:15:52 AM PST,02/20/2017 6:19:00 AM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Not sure,Yes,Yes,Not sure,Not sure,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15214
+260165632,02/20/2017 6:18:56 AM PST,02/20/2017 6:29:00 AM PST,COMPLETE,Survey Link,No,No,,Neutral,3,3,Maybe,Yes,Not sure,Yes,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15143
+260165803,02/20/2017 6:25:34 AM PST,02/20/2017 6:29:18 AM PST,COMPLETE,Survey Link,No,Yes,,Somewhat Approve,4,No experience,Yes,Yes,Yes,Yes,Yes,Agree,No Opinion,To a moderate extent,Mostly Unfamiliar,15222
+260165995,02/20/2017 6:32:35 AM PST,02/20/2017 6:34:30 AM PST,COMPLETE,Survey Link,No,Yes,,Somewhat Approve,3,4,Not sure,Not sure,No,No,No,Disagree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15237
+260166125,02/20/2017 6:37:22 AM PST,02/20/2017 6:39:20 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Yes,Yes,No,No,Yes,Disagree,Actively Support,To a moderate extent,Somewhat familiar,15090
+260166629,02/20/2017 7:01:05 AM PST,02/20/2017 7:12:55 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Yes,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15221
+260167887,02/20/2017 8:03:16 AM PST,02/20/2017 8:08:06 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Maybe,Yes,No,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15221
+260168317,02/20/2017 8:24:17 AM PST,02/20/2017 8:27:13 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Maybe,Yes,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Somewhat familiar,15220
+260169606,02/20/2017 9:32:23 AM PST,02/20/2017 9:34:52 AM PST,COMPLETE,Survey Link,Not sure,No,,Approve,3,4,Yes,Not sure,No,Not sure,Not sure,Neutral,No Opinion,To some extent,Mostly Unfamiliar,15203
+260169956,02/20/2017 9:56:48 AM PST,02/20/2017 12:00:23 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,No experience,Maybe,Yes,Not sure,Not sure,Yes,Neutral,Neither Support nor Oppose,To some extent,Not familiar at all,15116
+260170792,02/20/2017 10:44:41 AM PST,02/20/2017 10:48:31 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Disapprove,3,No experience,Not sure,Yes,Yes,Yes,Yes,Agree,No Opinion,Not at all,Not familiar at all,15232
+260170810,02/20/2017 10:45:17 AM PST,02/20/2017 10:46:26 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Neutral,3,3,Maybe,Yes,Yes,Not sure,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15206
+260170963,02/20/2017 10:52:01 AM PST,02/20/2017 10:59:23 AM PST,COMPLETE,Survey Link,No,No,,Neutral,3,3,Yes,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15207
+260171235,02/20/2017 11:10:38 AM PST,02/20/2017 11:13:41 AM PST,COMPLETE,Survey Link,Not sure,No,,Approve,2,5,Yes,Yes,No,No,No,Disagree,Actively Support,To some extent,Mostly familiar,15206
+260171242,02/20/2017 11:11:37 AM PST,02/20/2017 11:13:42 AM PST,COMPLETE,Survey Link,No,Not sure,,Approve,4,4,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To some extent,Somewhat familiar,15228
+260171341,02/20/2017 11:16:29 AM PST,02/20/2017 11:19:07 AM PST,COMPLETE,Survey Link,Yes,Yes,,Somewhat Approve,1,3,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15206
+260171377,02/20/2017 11:18:14 AM PST,02/20/2017 11:22:14 AM PST,COMPLETE,Survey Link,Yes,Yes,,Somewhat Approve,3,4,Yes,Yes,No,Not sure,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15201
+260171378,02/20/2017 11:18:19 AM PST,02/20/2017 11:19:29 AM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,2,5,Yes,Yes,Yes,No,No,Neutral,Actively Support,To a moderate extent,Mostly familiar,15206
+260171400,02/20/2017 11:20:05 AM PST,02/20/2017 11:25:36 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,4,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a large extent,Mostly familiar,15217
+260171420,02/20/2017 11:22:14 AM PST,02/20/2017 11:24:11 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,4,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To a moderate extent,Mostly familiar,22301
+260171654,02/20/2017 11:36:57 AM PST,02/20/2017 11:39:04 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,2,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15211
+260171695,02/20/2017 11:40:28 AM PST,02/20/2017 11:45:24 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,3,Not sure,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Not familiar at all,15209
+260171742,02/20/2017 11:41:27 AM PST,02/20/2017 11:44:26 AM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,Not sure,No,Not sure,Neutral,Actively Support,To a moderate extent,Somewhat familiar,15090
+260171994,02/20/2017 11:54:01 AM PST,02/20/2017 11:55:57 AM PST,COMPLETE,Survey Link,No,No,,Approve,2,5,Yes,Yes,Yes,No,Yes,Strongly Agree,Actively Support,To a large extent,Somewhat familiar,15217
+260172301,02/20/2017 12:13:09 PM PST,02/20/2017 12:20:09 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Disapprove,3,4,Not sure,Yes,Yes,Yes,Yes,Agree,Actively Oppose,To some extent,Mostly Unfamiliar,15217
+260172623,02/20/2017 12:29:54 PM PST,02/20/2017 12:33:24 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Approve,3,No experience,Yes,Yes,No,No,Yes,Neutral,Actively Support,To a moderate extent,Somewhat familiar,16066
+260176060,02/20/2017 1:45:36 PM PST,02/20/2017 1:47:24 PM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,3,No experience,Yes,Yes,Yes,Not sure,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,20001
+260176151,02/20/2017 1:47:52 PM PST,02/20/2017 1:51:32 PM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,3,4,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To a large extent,Somewhat familiar,16066
+260177157,02/20/2017 2:19:35 PM PST,02/20/2017 2:23:10 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Yes,Yes,No,No,Yes,Agree,Actively Support,To a large extent,Extremely familiar,15217
+260179638,02/20/2017 3:52:04 PM PST,02/20/2017 3:54:11 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Approve,3,3,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To some extent,Somewhat familiar,15218
+260180041,02/20/2017 4:07:19 PM PST,02/20/2017 4:09:14 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Yes,Not sure,Not sure,Not sure,Not sure,Agree,Neither Support nor Oppose,To a large extent,Mostly familiar,15217
+260180447,02/20/2017 4:25:53 PM PST,02/20/2017 4:38:57 PM PST,COMPLETE,Survey Link,Yes,Yes,,Approve,3,3,Yes,Yes,Yes,No,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15224
+260181144,02/20/2017 4:50:36 PM PST,02/20/2017 5:00:52 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,No experience,Not sure,Not sure,Not sure,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15216
+260181825,02/20/2017 5:22:53 PM PST,02/20/2017 5:27:30 PM PST,COMPLETE,Survey Link,No,No,,Disapprove,3,3,Maybe,Yes,Yes,Yes,Yes,Agree,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15233
+260182105,02/20/2017 5:34:51 PM PST,02/20/2017 5:45:04 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,2,Maybe,No,Yes,Not sure,Not sure,Agree,Actively Support,To little extent,Mostly Unfamiliar,15139
+260185011,02/20/2017 7:42:04 PM PST,02/20/2017 7:45:44 PM PST,COMPLETE,Survey Link,No,No,,Approve,2,3,Yes,Yes,Not sure,Yes,Yes,Agree,Actively Support,To a moderate extent,Mostly familiar,15201
+260186310,02/20/2017 8:41:44 PM PST,02/20/2017 9:04:28 PM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Disapprove,4,2,No,Yes,Yes,Yes,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15206
+260214292,02/21/2017 3:52:10 AM PST,02/21/2017 5:00:23 AM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260214448,02/21/2017 4:00:21 AM PST,02/21/2017 4:03:23 AM PST,COMPLETE,Survey Link,No,Not sure,,Approve,1,No experience,Yes,Yes,Yes,No,Yes,Neutral,Actively Support,To a moderate extent,Mostly Unfamiliar,15208
+260215931,02/21/2017 5:24:39 AM PST,02/21/2017 5:26:40 AM PST,COMPLETE,Survey Link,Not sure,No,,Somewhat Approve,3,4,Yes,Not sure,Not sure,Yes,Not sure,Strongly Agree,Actively Support,To some extent,Somewhat familiar,15206
+260216343,02/21/2017 5:52:03 AM PST,02/21/2017 6:02:24 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,4,Yes,Yes,Yes,No,Not sure,Neutral,Neither Support nor Oppose,To a moderate extent,Somewhat familiar,15065
+260216974,02/21/2017 6:19:20 AM PST,02/21/2017 6:36:38 AM PST,COMPLETE,Survey Link,No,No,,Neutral,2,3,Yes,Yes,Yes,Not sure,Yes,Agree,Actively Support,To little extent,Mostly Unfamiliar,15206
+260217091,02/21/2017 6:24:36 AM PST,02/21/2017 6:26:28 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,2,No experience,Maybe,Yes,Yes,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Somewhat familiar,15218
+260223348,02/21/2017 10:05:26 AM PST,02/21/2017 10:12:46 AM PST,COMPLETE,Survey Link,No,No,,Somewhat Approve,4,No experience,Yes,Yes,Yes,Not sure,Yes,Agree,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15217
+260226532,02/21/2017 11:48:44 AM PST,02/21/2017 11:52:10 AM PST,COMPLETE,Survey Link,Not sure,Not sure,,Somewhat Disapprove,3,3,Not sure,Yes,Yes,Yes,No,Neutral,Neither Support nor Oppose,To little extent,Mostly Unfamiliar,15221
+260229178,02/21/2017 1:32:29 PM PST,02/21/2017 1:42:13 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,3,Maybe,Yes,No,No,Yes,Neutral,Neither Support nor Oppose,To a moderate extent,Extremely familiar,15120
+260233876,02/21/2017 4:40:26 PM PST,02/21/2017 5:45:23 PM PST,INCOMPLETE,Survey Link,,,,,,,,,,,,,,,,
+260234259,02/21/2017 4:56:07 PM PST,02/21/2017 4:58:22 PM PST,COMPLETE,Survey Link,No,No,,Neutral,2,No experience,Maybe,Yes,Yes,Yes,Yes,Neutral,No Opinion,To some extent,Somewhat familiar,15101
+260235194,02/21/2017 5:36:47 PM PST,02/21/2017 6:20:25 PM PST,COMPLETE,Survey Link,No,No,,Approve,3,4,Yes,Yes,No,No,Yes,Neutral,Neither Support nor Oppose,To some extent,Mostly Unfamiliar,15210
+260270984,02/22/2017 5:39:29 AM PST,02/22/2017 5:44:08 AM PST,COMPLETE,Survey Link,No,Yes,,Somewhat Approve,3,4,Yes,Yes,Not sure,No,Not sure,Neutral,Actively Support,To a large extent,Extremely familiar,15217

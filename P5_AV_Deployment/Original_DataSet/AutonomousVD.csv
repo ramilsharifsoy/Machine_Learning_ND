@@ -1,0 +1,1117 @@
+Pedestrian,Bicycle,AVSafetyPotential,FamiliarityTechnoology,ZipCode,FeelingsProvingGround
+No,No,Yes,Extremely familiar,15001,Approve
+No,Not sure,Maybe,Somewhat familiar,15003,Disapprove
+No,No,Not sure,Somewhat familiar,15005,Neutral
+No,No,Yes,Mostly Unfamiliar,15009,Approve
+No,No,Yes,Extremely familiar,15017,Approve
+No,No,No,Mostly familiar,15019,Approve
+No,No,No,Not familiar at all,15024,Disapprove
+No,No,Yes,Extremely familiar,15024,Approve
+No,No,Yes,Mostly familiar,15024,Somewhat Approve
+No,No,Yes,Mostly familiar,15024,Somewhat Approve
+No,No,Maybe,Not familiar at all,15025,Neutral
+No,No,Maybe,Not familiar at all,15030,Somewhat Disapprove
+No,No,Not sure,Not familiar at all,15033,Somewhat Approve
+Yes,Yes,Yes,Extremely familiar,15044,Approve
+No,No,Yes,Somewhat familiar,15044,Approve
+No,No,No,Mostly familiar,15044,Disapprove
+No,No,No,Not familiar at all,15044,Somewhat Disapprove
+No,Yes,Yes,Somewhat familiar,15049,Approve
+Not sure,No,Yes,Mostly familiar,15055,Approve
+No,No,Maybe,Mostly Unfamiliar,15062,Neutral
+No,No,Yes,Somewhat familiar,15063,Neutral
+Yes,Yes,Not sure,Somewhat familiar,15065,Approve
+No,No,Yes,Somewhat familiar,15065,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15068,Approve
+Yes,Yes,Maybe,Somewhat familiar,15068,Neutral
+No,No,Not sure,Mostly Unfamiliar,15068,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15071,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15071,Approve
+No,No,Maybe,Not familiar at all,15084,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15090,Approve
+No,No,Yes,Mostly familiar,15090,Approve
+No,Yes,Yes,Somewhat familiar,15090,Approve
+Not sure,No,Yes,Extremely familiar,15090,Somewhat Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15090,Approve
+No,No,Maybe,Not familiar at all,15090,Approve
+No,Yes,No,Somewhat familiar,15090,Somewhat Disapprove
+No,Yes,Maybe,Not familiar at all,15090,Neutral
+No,No,Yes,Somewhat familiar,15090,Approve
+No,No,Yes,Somewhat familiar,15090,Approve
+Yes,Yes,Yes,Somewhat familiar,15101,Approve
+No,No,Yes,Somewhat familiar,15101,Approve
+No,No,Yes,Somewhat familiar,15101,Approve
+No,No,Yes,Somewhat familiar,15101,Approve
+No,No,Maybe,Somewhat familiar,15101,Approve
+No,No,Maybe,Somewhat familiar,15101,Neutral
+No,Yes,No,Somewhat familiar,15102,Disapprove
+Yes,Yes,Yes,Mostly Unfamiliar,15102,Neutral
+No,Yes,Maybe,Somewhat familiar,15102,Neutral
+Yes,Yes,Yes,Somewhat familiar,15102,Approve
+No,No,No,Somewhat familiar,15102,Disapprove
+No,No,Yes,Somewhat familiar,15102,Approve
+Yes,Yes,Yes,Somewhat familiar,15102,Approve
+No,Not sure,Not sure,Not familiar at all,15102,Neutral
+No,No,Not sure,Somewhat familiar,15102,Somewhat Approve
+No,Not sure,No,Somewhat familiar,15102,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15106,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15106,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15106,Somewhat Disapprove
+No,Yes,Yes,Extremely familiar,15108,Disapprove
+No,No,Maybe,Mostly Unfamiliar,15108,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15108,Neutral
+No,No,Yes,Somewhat familiar,15108,Approve
+No,No,Maybe,Somewhat familiar,15108,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15108,Somewhat Disapprove
+No,No,Maybe,Mostly Unfamiliar,15108,Disapprove
+No,No,Maybe,Somewhat familiar,15110,Neutral
+No,No,Not sure,Mostly Unfamiliar,15116,Somewhat Disapprove
+No,No,Not sure,Not familiar at all,15116,Neutral
+Yes,No,No,Extremely familiar,15116,Disapprove
+No,No,Yes,Somewhat familiar,15116,Approve
+No,No,Maybe,Not familiar at all,15116,Approve
+Yes,No,Maybe,Somewhat familiar,15120,Disapprove
+Yes,No,Yes,Somewhat familiar,15120,Approve
+No,Yes,Yes,Somewhat familiar,15120,Somewhat Approve
+Not sure,Not sure,Yes,Somewhat familiar,15120,Approve
+Not sure,Not sure,No,Somewhat familiar,15120,Disapprove
+No,Not sure,Maybe,Mostly familiar,15120,Somewhat Approve
+No,No,Yes,Somewhat familiar,15120,Approve
+No,No,Yes,Somewhat familiar,15120,Somewhat Approve
+No,No,Maybe,Extremely familiar,15120,Approve
+No,No,Yes,Somewhat familiar,15122,Somewhat Approve
+No,Not sure,Yes,Mostly Unfamiliar,15122,Disapprove
+No,No,Not sure,Mostly Unfamiliar,15123,Somewhat Approve
+No,No,Yes,Somewhat familiar,15129,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15129,Neutral
+No,No,Yes,Somewhat familiar,15129,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15129,Somewhat Disapprove
+Yes,Not sure,Maybe,Somewhat familiar,15131,Somewhat Disapprove
+No,Yes,Yes,Somewhat familiar,15131,Approve
+No,No,Not sure,Not familiar at all,15131,Neutral
+No,No,Maybe,Somewhat familiar,15132,Neutral
+No,No,Not sure,Somewhat familiar,15132,Neutral
+No,No,No,Mostly familiar,15135,Disapprove
+No,No,Yes,Mostly familiar,15135,Approve
+No,No,Yes,Somewhat familiar,15136,Approve
+Not sure,Not sure,Maybe,Somewhat familiar,15136,Disapprove
+No,No,Maybe,Somewhat familiar,15139,Somewhat Disapprove
+Not sure,Not sure,Yes,Somewhat familiar,15139,Approve
+No,No,Maybe,Mostly Unfamiliar,15139,Approve
+No,Yes,No,Mostly familiar,15142,Neutral
+No,Yes,Yes,Not familiar at all,15143,Approve
+Yes,Yes,Yes,Mostly familiar,15143,Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15143,Somewhat Approve
+No,Yes,Yes,Mostly Unfamiliar,15143,Approve
+No,No,Yes,Extremely familiar,15143,Approve
+No,No,Yes,Mostly familiar,15143,Approve
+No,No,Maybe,Somewhat familiar,15143,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15143,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15143,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15143,Neutral
+No,No,Yes,Mostly familiar,15144,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15145,Somewhat Disapprove
+No,No,Yes,Mostly Unfamiliar,15146,Disapprove
+No,No,No,Not familiar at all,15146,Somewhat Disapprove
+No,No,Yes,Not familiar at all,15146,Approve
+Yes,No,Not sure,Somewhat familiar,15146,Disapprove
+Yes,Yes,No,Mostly Unfamiliar,15146,Disapprove
+No,Yes,Yes,Somewhat familiar,15146,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15146,Somewhat Approve
+Yes,Yes,No,Mostly familiar,15147,Disapprove
+Yes,No,Yes,Mostly Unfamiliar,15147,Somewhat Approve
+No,No,Yes,Somewhat familiar,15147,Approve
+No,No,Yes,Extremely familiar,15147,Somewhat Approve
+Not sure,No,Yes,Mostly familiar,15147,Approve
+Yes,Yes,No,Somewhat familiar,15201,Disapprove
+Yes,No,No,Mostly Unfamiliar,15201,Disapprove
+Yes,No,Maybe,Mostly Unfamiliar,15201,Somewhat Disapprove
+Yes,Not sure,Maybe,Extremely familiar,15201,Disapprove
+No,Yes,Yes,Mostly familiar,15201,Somewhat Approve
+Yes,Not sure,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15201,Approve
+Yes,Yes,Yes,Extremely familiar,15201,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15201,Somewhat Approve
+Not sure,Yes,Not sure,Somewhat familiar,15201,Somewhat Disapprove
+Yes,Yes,Maybe,Mostly Unfamiliar,15201,Somewhat Disapprove
+No,Yes,Yes,Extremely familiar,15201,Approve
+Yes,Yes,Yes,Mostly familiar,15201,Approve
+Yes,Yes,Yes,Mostly familiar,15201,Somewhat Approve
+No,Yes,Not sure,Not familiar at all,15201,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15201,Approve
+No,Yes,Yes,Mostly familiar,15201,Approve
+Yes,Yes,Yes,Mostly familiar,15201,Neutral
+Yes,Yes,Yes,Extremely familiar,15201,Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15201,Approve
+No,Yes,Yes,Mostly familiar,15201,Approve
+Yes,No,Yes,Extremely familiar,15201,Approve
+Yes,No,Yes,Somewhat familiar,15201,Somewhat Approve
+Yes,Yes,Yes,Extremely familiar,15201,Approve
+No,Yes,Yes,Mostly Unfamiliar,15201,Approve
+Yes,Yes,Yes,Extremely familiar,15201,Approve
+Yes,Yes,Yes,Extremely familiar,15201,Approve
+Yes,Yes,Yes,Extremely familiar,15201,Approve
+Yes,No,Yes,Mostly familiar,15201,Neutral
+Yes,Yes,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Not sure,Mostly familiar,15201,Somewhat Disapprove
+Yes,Yes,Yes,Mostly Unfamiliar,15201,Somewhat Approve
+Yes,No,Maybe,Mostly Unfamiliar,15201,Neutral
+No,No,Maybe,Mostly familiar,15201,Somewhat Disapprove
+Yes,Not sure,Yes,Mostly familiar,15201,Approve
+No,Yes,Yes,Mostly familiar,15201,Somewhat Approve
+No,No,No,Somewhat familiar,15201,Disapprove
+Not sure,Not sure,Yes,Somewhat familiar,15201,Approve
+No,Yes,Not sure,Somewhat familiar,15201,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15201,Approve
+No,No,Yes,Extremely familiar,15201,Approve
+No,No,Yes,Mostly familiar,15201,Somewhat Approve
+No,No,Yes,Mostly familiar,15201,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15201,Approve
+No,No,Yes,Extremely familiar,15201,Disapprove
+No,No,Yes,Mostly familiar,15201,Approve
+No,No,No,Not familiar at all,15201,Somewhat Disapprove
+Yes,Not sure,Yes,Mostly Unfamiliar,15201,Neutral
+Yes,Yes,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Maybe,Somewhat familiar,15201,Somewhat Disapprove
+No,Yes,Yes,Mostly familiar,15201,Somewhat Approve
+Yes,No,Yes,Extremely familiar,15201,Approve
+Yes,Yes,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,No,Not familiar at all,15201,Disapprove
+No,Not sure,Yes,Somewhat familiar,15201,Approve
+Yes,No,Yes,Somewhat familiar,15201,Approve
+Yes,No,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Yes,Somewhat familiar,15201,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15201,Somewhat Approve
+Yes,Not sure,Yes,Mostly Unfamiliar,15201,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Not sure,Somewhat familiar,15201,Approve
+No,Not sure,Yes,Somewhat familiar,15201,Approve
+No,No,No,Mostly Unfamiliar,15201,Disapprove
+No,No,Yes,Somewhat familiar,15201,Somewhat Approve
+Yes,No,Yes,Mostly Unfamiliar,15201,Approve
+Not sure,No,Yes,Somewhat familiar,15201,Approve
+Yes,Yes,Yes,Mostly familiar,15201,Somewhat Approve
+No,No,Yes,Mostly familiar,15201,Approve
+No,Yes,Maybe,Mostly Unfamiliar,15202,Somewhat Approve
+Yes,No,Yes,Mostly Unfamiliar,15202,Approve
+No,Yes,Maybe,Somewhat familiar,15202,Neutral
+Yes,Yes,Yes,Somewhat familiar,15202,Approve
+Yes,Yes,Yes,Somewhat familiar,15202,Approve
+No,Not sure,Yes,Not familiar at all,15202,Approve
+No,Yes,Not sure,Mostly Unfamiliar,15202,Somewhat Disapprove
+No,No,No,Mostly Unfamiliar,15202,Disapprove
+No,No,Yes,Somewhat familiar,15202,Approve
+No,No,Not sure,Mostly Unfamiliar,15202,Approve
+Yes,Yes,Yes,Somewhat familiar,15202,Approve
+No,Yes,Yes,Somewhat familiar,15202,Approve
+No,Yes,Yes,Mostly familiar,15202,Approve
+No,Yes,Yes,Extremely familiar,15202,Approve
+Yes,Yes,Yes,Mostly familiar,15202,Approve
+No,No,Yes,Somewhat familiar,15202,Approve
+No,Yes,Yes,Mostly Unfamiliar,15203,Approve
+Not sure,Not sure,Maybe,Mostly familiar,15203,Approve
+Yes,Yes,Yes,Extremely familiar,15203,Approve
+Yes,Yes,Maybe,Somewhat familiar,15203,Neutral
+Yes,Yes,Yes,Somewhat familiar,15203,Approve
+Yes,Yes,Yes,Somewhat familiar,15203,Neutral
+No,Yes,Yes,Somewhat familiar,15203,Approve
+Yes,Yes,Not sure,Mostly Unfamiliar,15203,Disapprove
+No,Yes,Yes,Somewhat familiar,15203,Approve
+Yes,Not sure,Yes,Somewhat familiar,15203,Approve
+No,Yes,Maybe,Somewhat familiar,15203,Somewhat Disapprove
+No,Yes,Yes,Somewhat familiar,15203,Approve
+No,Yes,Yes,Somewhat familiar,15203,Approve
+No,Yes,Not sure,Somewhat familiar,15203,Approve
+Yes,Yes,No,Mostly familiar,15203,Approve
+Yes,No,Maybe,Somewhat familiar,15203,Somewhat Disapprove
+Not sure,Not sure,Yes,Mostly Unfamiliar,15203,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15203,Approve
+Yes,Yes,Yes,Mostly familiar,15203,Approve
+No,Yes,Yes,Somewhat familiar,15203,Approve
+No,No,Yes,Somewhat familiar,15203,Disapprove
+No,No,Yes,Mostly Unfamiliar,15203,Somewhat Approve
+No,No,Not sure,Not familiar at all,15203,Disapprove
+No,No,Yes,Extremely familiar,15203,Approve
+No,No,Maybe,Somewhat familiar,15203,Approve
+No,Yes,Yes,Somewhat familiar,15203,Approve
+No,No,Maybe,Not familiar at all,15203,Neutral
+No,Yes,Yes,Somewhat familiar,15203,Approve
+No,No,Yes,Somewhat familiar,15203,Approve
+No,No,Not sure,Mostly Unfamiliar,15203,Somewhat Disapprove
+No,No,Maybe,Mostly familiar,15203,Approve
+No,Yes,Yes,Somewhat familiar,15203,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15203,Approve
+No,No,Yes,Somewhat familiar,15203,Approve
+No,No,Yes,Mostly familiar,15203,Approve
+Not sure,No,Yes,Mostly Unfamiliar,15203,Approve
+No,No,No,Somewhat familiar,15204,Disapprove
+Not sure,Yes,Not sure,Mostly familiar,15204,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15204,Approve
+Not sure,Not sure,Yes,Somewhat familiar,15204,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15204,Neutral
+No,No,Yes,Somewhat familiar,15204,Approve
+Yes,Yes,Yes,Mostly familiar,15205,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15205,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15205,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15205,Approve
+No,No,Yes,Somewhat familiar,15205,Somewhat Disapprove
+No,No,Not sure,Somewhat familiar,15205,Neutral
+Yes,Yes,Yes,Somewhat familiar,15205,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15205,Approve
+No,No,Yes,Somewhat familiar,15206,Approve
+Yes,No,Yes,Somewhat familiar,15206,Approve
+No,Yes,Maybe,Mostly Unfamiliar,15206,Neutral
+No,No,Yes,Mostly familiar,15206,Neutral
+No,Yes,Yes,Somewhat familiar,15206,Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15206,Somewhat Disapprove
+No,Yes,Maybe,Somewhat familiar,15206,Neutral
+Yes,No,Yes,Mostly familiar,15206,Neutral
+Yes,No,Not sure,Mostly Unfamiliar,15206,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15206,Disapprove
+Yes,Yes,No,Somewhat familiar,15206,Disapprove
+Yes,No,Yes,Somewhat familiar,15206,Approve
+Not sure,Yes,Maybe,Somewhat familiar,15206,Somewhat Disapprove
+Yes,Yes,Yes,Mostly Unfamiliar,15206,Approve
+Yes,Yes,Yes,Somewhat familiar,15206,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15206,Somewhat Approve
+Yes,Yes,Maybe,Mostly familiar,15206,Approve
+Yes,Yes,Yes,Somewhat familiar,15206,Approve
+No,Yes,Yes,Somewhat familiar,15206,Somewhat Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15206,Somewhat Disapprove
+Yes,Not sure,Yes,Not familiar at all,15206,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15206,Approve
+No,Yes,Yes,Somewhat familiar,15206,Approve
+Yes,No,Yes,Mostly Unfamiliar,15206,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+No,No,Yes,Mostly Unfamiliar,15206,Neutral
+Yes,Yes,Yes,Mostly Unfamiliar,15206,Approve
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+No,Yes,Yes,Mostly familiar,15206,Approve
+No,Yes,Maybe,Somewhat familiar,15206,Approve
+No,Yes,Yes,Mostly familiar,15206,Approve
+Yes,Yes,No,Mostly familiar,15206,Disapprove
+Yes,Yes,Yes,Mostly familiar,15206,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15206,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+No,Yes,Yes,Not familiar at all,15206,Approve
+No,Yes,Maybe,Somewhat familiar,15206,Somewhat Disapprove
+No,Yes,Yes,Mostly Unfamiliar,15206,Approve
+No,Yes,Yes,Extremely familiar,15206,Approve
+Yes,Yes,Yes,Somewhat familiar,15206,Approve
+Yes,No,Not sure,Not familiar at all,15206,Neutral
+No,No,Yes,Mostly Unfamiliar,15206,Neutral
+No,No,Maybe,Somewhat familiar,15206,Somewhat Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15206,Somewhat Approve
+No,No,Yes,Mostly familiar,15206,Approve
+No,No,Yes,Mostly familiar,15206,Approve
+No,Not sure,Yes,Mostly Unfamiliar,15206,Neutral
+No,No,Yes,Mostly Unfamiliar,15206,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15206,Neutral
+No,No,Not sure,Mostly Unfamiliar,15206,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15206,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15206,Neutral
+No,No,Yes,Mostly familiar,15206,Approve
+No,Yes,Yes,Somewhat familiar,15206,Approve
+No,No,Maybe,Somewhat familiar,15206,Somewhat Approve
+No,Yes,Yes,Not familiar at all,15206,Somewhat Approve
+No,No,Yes,Extremely familiar,15206,Approve
+No,No,No,Extremely familiar,15206,Disapprove
+No,No,Not sure,Somewhat familiar,15206,Somewhat Approve
+Not sure,Not sure,Yes,Mostly Unfamiliar,15206,Somewhat Approve
+No,No,Not sure,Not familiar at all,15206,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15206,Disapprove
+No,No,Yes,Mostly Unfamiliar,15206,Approve
+Yes,No,Yes,Mostly Unfamiliar,15206,Disapprove
+Yes,Yes,Yes,Somewhat familiar,15206,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+Yes,No,Yes,Somewhat familiar,15206,Somewhat Disapprove
+Yes,Yes,Yes,Somewhat familiar,15206,Somewhat Approve
+No,Yes,Yes,Extremely familiar,15206,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15206,Neutral
+Yes,Yes,Yes,Mostly familiar,15206,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15206,Approve
+Yes,No,Yes,Somewhat familiar,15206,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15206,Somewhat Approve
+Yes,No,Maybe,Mostly Unfamiliar,15206,Approve
+Yes,No,Yes,Mostly familiar,15206,Approve
+Yes,No,Yes,Mostly Unfamiliar,15206,Somewhat Approve
+No,Yes,Yes,Extremely familiar,15206,Approve
+Yes,Yes,Not sure,Mostly Unfamiliar,15206,Neutral
+Yes,Yes,Yes,Not familiar at all,15206,Neutral
+Not sure,Yes,Yes,Mostly familiar,15206,Approve
+Yes,No,Maybe,Mostly Unfamiliar,15206,Approve
+Yes,Yes,Yes,Extremely familiar,15206,Somewhat Approve
+No,No,Maybe,Mostly familiar,15206,Approve
+No,No,Maybe,Mostly Unfamiliar,15206,Approve
+Yes,No,No,Somewhat familiar,15206,Somewhat Disapprove
+Yes,No,Yes,Extremely familiar,15206,Approve
+No,No,Maybe,Not familiar at all,15206,Neutral
+Not sure,Not sure,Not sure,Not familiar at all,15206,Somewhat Disapprove
+No,No,Yes,Mostly Unfamiliar,15206,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15206,Somewhat Disapprove
+No,No,Maybe,Somewhat familiar,15206,Somewhat Approve
+Not sure,Yes,Yes,Somewhat familiar,15206,Approve
+Not sure,No,Yes,Somewhat familiar,15206,Approve
+Not sure,Not sure,Maybe,Somewhat familiar,15206,Neutral
+Not sure,No,Yes,Mostly familiar,15206,Approve
+Yes,Yes,Yes,Mostly familiar,15206,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15206,Approve
+Not sure,Not sure,No,Mostly Unfamiliar,15206,Somewhat Disapprove
+Not sure,No,Yes,Somewhat familiar,15206,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15206,Neutral
+Yes,Yes,No,Mostly familiar,15207,Disapprove
+Yes,Yes,Yes,Extremely familiar,15207,Approve
+No,Yes,Yes,Mostly familiar,15207,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15207,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15207,Approve
+Yes,Yes,Yes,Mostly familiar,15207,Approve
+No,Yes,Maybe,Somewhat familiar,15207,Somewhat Disapprove
+Yes,No,Yes,Mostly familiar,15207,Approve
+Yes,No,Yes,Mostly Unfamiliar,15207,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15207,Approve
+No,No,Yes,Somewhat familiar,15207,Approve
+No,No,Maybe,Not familiar at all,15207,Somewhat Disapprove
+Not sure,Not sure,Yes,Mostly Unfamiliar,15207,Approve
+Yes,No,Yes,Somewhat familiar,15207,Approve
+No,No,Yes,Somewhat familiar,15207,Approve
+No,No,Not sure,Not familiar at all,15207,Neutral
+No,No,Maybe,Somewhat familiar,15207,Disapprove
+No,No,Yes,Somewhat familiar,15207,Neutral
+Yes,Yes,Yes,Mostly familiar,15208,Approve
+No,Yes,Yes,Mostly familiar,15208,Neutral
+Yes,Not sure,Yes,Somewhat familiar,15208,Approve
+Yes,Yes,Yes,Mostly familiar,15208,Approve
+Yes,Yes,No,Mostly Unfamiliar,15208,Somewhat Disapprove
+Yes,Yes,Yes,Extremely familiar,15208,Approve
+Yes,Yes,Yes,Mostly familiar,15208,Approve
+Not sure,Yes,Yes,Mostly Unfamiliar,15208,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15208,Approve
+Not sure,Not sure,Yes,Extremely familiar,15208,Neutral
+No,Yes,Yes,Mostly familiar,15208,Approve
+Yes,Yes,Yes,Somewhat familiar,15208,Neutral
+Yes,Yes,Yes,Mostly familiar,15208,Approve
+Yes,Yes,Yes,Mostly familiar,15208,Approve
+Not sure,Not sure,Yes,Extremely familiar,15208,Approve
+No,No,Yes,Mostly Unfamiliar,15208,Approve
+No,No,Not sure,Mostly Unfamiliar,15208,Somewhat Disapprove
+No,Yes,Yes,Somewhat familiar,15208,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15208,Approve
+No,No,Yes,Mostly familiar,15208,Somewhat Disapprove
+Yes,Yes,Yes,Extremely familiar,15208,Approve
+No,Yes,Maybe,Somewhat familiar,15208,Somewhat Disapprove
+Yes,No,Yes,Mostly Unfamiliar,15208,Neutral
+No,Yes,Yes,Somewhat familiar,15208,Neutral
+Yes,No,Yes,Mostly familiar,15208,Approve
+Yes,No,Maybe,Not familiar at all,15208,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15208,Approve
+No,Not sure,Yes,Mostly Unfamiliar,15208,Approve
+No,Yes,No,Not familiar at all,15209,Disapprove
+Yes,Yes,Yes,Somewhat familiar,15209,Somewhat Approve
+No,Yes,Yes,Mostly familiar,15209,Approve
+No,No,Yes,Somewhat familiar,15209,Approve
+No,Yes,Maybe,Somewhat familiar,15209,Neutral
+Not sure,No,Yes,Mostly Unfamiliar,15209,Somewhat Approve
+Yes,Yes,Maybe,Somewhat familiar,15209,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15209,Approve
+No,No,Yes,Extremely familiar,15209,Approve
+Yes,Yes,Maybe,Somewhat familiar,15209,Disapprove
+Yes,No,Yes,Extremely familiar,15209,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15209,Somewhat Disapprove
+No,No,Not sure,Not familiar at all,15209,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15210,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15210,Somewhat Approve
+No,Yes,Not sure,Somewhat familiar,15210,Somewhat Approve
+No,No,Yes,Somewhat familiar,15210,Approve
+Yes,Yes,No,Somewhat familiar,15210,Neutral
+No,No,No,Somewhat familiar,15210,Neutral
+No,No,Yes,Mostly Unfamiliar,15210,Approve
+Yes,No,Maybe,Somewhat familiar,15211,Approve
+No,Yes,No,Somewhat familiar,15211,Disapprove
+Not sure,Yes,Yes,Mostly familiar,15211,Approve
+No,Yes,Yes,Somewhat familiar,15211,Approve
+No,Yes,Yes,Mostly Unfamiliar,15211,Approve
+Yes,No,Yes,Somewhat familiar,15211,Disapprove
+Yes,Yes,Maybe,Somewhat familiar,15211,Somewhat Approve
+No,No,Yes,Somewhat familiar,15211,Approve
+No,No,Not sure,Not familiar at all,15211,Neutral
+No,No,Maybe,Somewhat familiar,15211,Neutral
+No,No,Yes,Somewhat familiar,15211,Somewhat Approve
+No,No,Not sure,Mostly Unfamiliar,15211,Neutral
+No,Not sure,Yes,Somewhat familiar,15211,Neutral
+No,No,Yes,Mostly Unfamiliar,15211,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15211,Somewhat Approve
+Yes,No,Maybe,Mostly familiar,15211,Approve
+Yes,No,Yes,Mostly familiar,15211,Approve
+No,No,Yes,Mostly Unfamiliar,15211,Approve
+No,No,Yes,Somewhat familiar,15211,Approve
+No,No,Yes,Somewhat familiar,15211,Approve
+No,Yes,Not sure,Not familiar at all,15212,Somewhat Approve
+Not sure,Yes,Yes,Mostly familiar,15212,Approve
+Yes,Yes,Yes,Mostly familiar,15212,Somewhat Disapprove
+Yes,No,Yes,Mostly familiar,15212,Neutral
+Not sure,No,Maybe,Mostly Unfamiliar,15212,Somewhat Approve
+Yes,No,Yes,Extremely familiar,15212,Approve
+Yes,No,No,Somewhat familiar,15212,Disapprove
+No,Yes,Yes,Mostly Unfamiliar,15212,Approve
+No,Yes,Maybe,Mostly familiar,15212,Neutral
+Yes,Yes,Yes,Extremely familiar,15212,Approve
+Yes,Yes,Maybe,Somewhat familiar,15212,Approve
+Yes,Yes,Not sure,Mostly familiar,15212,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15212,Neutral
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15212,Approve
+Yes,Not sure,Yes,Somewhat familiar,15212,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,No,Yes,Mostly familiar,15212,Approve
+No,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,No,Yes,Mostly Unfamiliar,15212,Approve
+Yes,No,No,Mostly Unfamiliar,15212,Disapprove
+Yes,Yes,No,Not familiar at all,15212,Somewhat Disapprove
+No,Yes,Maybe,Mostly Unfamiliar,15212,Somewhat Approve
+Not sure,Yes,Yes,Extremely familiar,15212,Approve
+Yes,Yes,Maybe,Somewhat familiar,15212,Neutral
+Yes,Yes,Yes,Mostly Unfamiliar,15212,Approve
+Yes,No,Yes,Mostly Unfamiliar,15212,Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Not sure,Not sure,Yes,Somewhat familiar,15212,Approve
+Yes,No,Yes,Somewhat familiar,15212,Somewhat Approve
+No,Yes,Maybe,Mostly Unfamiliar,15212,Somewhat Approve
+Not sure,Not sure,Yes,Somewhat familiar,15212,Approve
+No,No,No,Mostly Unfamiliar,15212,Somewhat Disapprove
+No,No,Yes,Mostly Unfamiliar,15212,Neutral
+No,No,Not sure,Somewhat familiar,15212,Disapprove
+No,No,Maybe,Somewhat familiar,15212,Approve
+Not sure,Not sure,Yes,Mostly Unfamiliar,15212,Approve
+No,No,Yes,Not familiar at all,15212,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15212,Approve
+No,No,Yes,Mostly Unfamiliar,15212,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15212,Approve
+No,No,Maybe,Mostly Unfamiliar,15212,Neutral
+No,No,No,Mostly Unfamiliar,15212,Disapprove
+No,No,Maybe,Somewhat familiar,15212,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15212,Somewhat Disapprove
+Not sure,Not sure,Maybe,Somewhat familiar,15212,Approve
+No,Not sure,Maybe,Not familiar at all,15212,Neutral
+No,No,Yes,Somewhat familiar,15212,Approve
+Yes,Yes,Not sure,Somewhat familiar,15212,Neutral
+Yes,Yes,Yes,Mostly familiar,15212,Approve
+Yes,Yes,Yes,Mostly familiar,15212,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15212,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15212,Neutral
+Yes,Yes,Yes,Mostly familiar,15212,Approve
+No,Yes,Yes,Mostly Unfamiliar,15212,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15212,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+No,Yes,Maybe,Mostly familiar,15212,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15212,Somewhat Approve
+Yes,Yes,Maybe,Mostly familiar,15212,Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Somewhat Disapprove
+No,Yes,Yes,Extremely familiar,15212,Approve
+Yes,Yes,Yes,Somewhat familiar,15212,Approve
+Yes,Yes,Yes,Extremely familiar,15212,Approve
+No,No,Yes,Mostly Unfamiliar,15212,Neutral
+Not sure,No,Yes,Mostly Unfamiliar,15212,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15212,Somewhat Approve
+No,No,Not sure,Mostly Unfamiliar,15212,Somewhat Approve
+Yes,No,Maybe,Mostly Unfamiliar,15213,Disapprove
+Yes,Yes,Maybe,Mostly familiar,15213,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15213,Approve
+Yes,Yes,Maybe,Somewhat familiar,15213,Somewhat Disapprove
+Yes,Not sure,Yes,Somewhat familiar,15213,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15213,Neutral
+Yes,Yes,Yes,Extremely familiar,15213,Approve
+No,Yes,Maybe,Somewhat familiar,15213,Neutral
+Yes,Yes,Maybe,Mostly Unfamiliar,15213,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15213,Somewhat Approve
+Not sure,Yes,Yes,Mostly familiar,15213,Approve
+No,Not sure,Yes,Extremely familiar,15213,Approve
+Not sure,Yes,Yes,Mostly Unfamiliar,15213,Approve
+No,Yes,Yes,Somewhat familiar,15213,Somewhat Approve
+Yes,Yes,Not sure,Somewhat familiar,15213,Neutral
+No,Yes,Yes,Mostly familiar,15213,Approve
+No,No,Yes,Not familiar at all,15213,Somewhat Approve
+No,No,Yes,Mostly familiar,15213,Approve
+No,No,Yes,Mostly familiar,15213,Somewhat Approve
+No,No,Yes,Mostly familiar,15213,Approve
+No,No,No,Mostly familiar,15213,Disapprove
+No,No,Yes,Not familiar at all,15213,Approve
+No,Yes,Yes,Somewhat familiar,15213,Approve
+No,No,Yes,Somewhat familiar,15213,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15213,Somewhat Disapprove
+No,Yes,Yes,Mostly Unfamiliar,15213,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15213,Approve
+Yes,Not sure,Maybe,Somewhat familiar,15213,Approve
+Yes,Yes,Yes,Extremely familiar,15213,Approve
+Not sure,Yes,Yes,Mostly familiar,15213,Somewhat Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15213,Somewhat Approve
+Yes,Not sure,Maybe,Somewhat familiar,15213,Approve
+Not sure,Yes,Yes,Mostly familiar,15213,Approve
+Yes,Yes,Yes,Extremely familiar,15214,Approve
+Yes,Yes,Yes,Somewhat familiar,15214,Approve
+No,No,Yes,Mostly familiar,15214,Approve
+No,No,Yes,Mostly Unfamiliar,15214,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15214,Approve
+No,No,Not sure,Mostly Unfamiliar,15214,Approve
+Yes,No,Not sure,Somewhat familiar,15215,Disapprove
+No,Yes,Yes,Extremely familiar,15215,Approve
+Yes,Yes,Yes,Extremely familiar,15215,Approve
+No,Yes,Maybe,Somewhat familiar,15215,Somewhat Approve
+No,Not sure,Yes,Somewhat familiar,15215,Approve
+No,No,Yes,Somewhat familiar,15215,Approve
+No,No,Yes,Somewhat familiar,15215,Approve
+No,No,Yes,Mostly Unfamiliar,15215,Somewhat Approve
+No,No,Not sure,Not familiar at all,15215,Neutral
+Yes,No,Yes,Extremely familiar,15215,Approve
+Not sure,Yes,Yes,Somewhat familiar,15215,Approve
+No,No,Maybe,Somewhat familiar,15215,Somewhat Disapprove
+No,No,Yes,Mostly Unfamiliar,15215,Neutral
+Yes,No,Yes,Somewhat familiar,15216,Approve
+Yes,No,Yes,Mostly Unfamiliar,15216,Neutral
+No,Yes,Yes,Somewhat familiar,15216,Approve
+Yes,No,Yes,Mostly Unfamiliar,15216,Neutral
+No,No,Yes,Somewhat familiar,15216,Approve
+Yes,Yes,Yes,Extremely familiar,15216,Approve
+Not sure,Yes,Yes,Somewhat familiar,15216,Somewhat Approve
+No,No,Yes,Mostly familiar,15216,Neutral
+No,No,Maybe,Mostly Unfamiliar,15216,Somewhat Approve
+Yes,No,Yes,Mostly familiar,15216,Approve
+No,No,Maybe,Mostly Unfamiliar,15216,Neutral
+Not sure,Not sure,Yes,Somewhat familiar,15216,Neutral
+Not sure,Yes,Yes,Not familiar at all,15216,Approve
+Yes,No,Yes,Mostly Unfamiliar,15216,Approve
+No,Yes,Maybe,Mostly familiar,15216,Approve
+No,Yes,Yes,Mostly Unfamiliar,15216,Somewhat Approve
+No,No,Yes,Somewhat familiar,15216,Approve
+No,No,Not sure,Mostly Unfamiliar,15216,Approve
+No,Yes,No,Somewhat familiar,15217,Disapprove
+Yes,No,Maybe,Somewhat familiar,15217,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15217,Somewhat Disapprove
+Yes,No,Maybe,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15217,Approve
+No,Yes,Maybe,Somewhat familiar,15217,Somewhat Approve
+Not sure,Yes,Maybe,Mostly Unfamiliar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,No,Yes,Mostly familiar,15217,Approve
+Not sure,Yes,Yes,Somewhat familiar,15217,Neutral
+Yes,No,Yes,Mostly familiar,15217,Approve
+Yes,Yes,Not sure,Mostly Unfamiliar,15217,Disapprove
+Yes,No,Yes,Somewhat familiar,15217,Somewhat Approve
+No,Yes,Yes,Mostly Unfamiliar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+No,Yes,Not sure,Somewhat familiar,15217,Approve
+Yes,Not sure,Not sure,Not familiar at all,15217,Approve
+Yes,No,Maybe,Extremely familiar,15217,Neutral
+No,Yes,Yes,Extremely familiar,15217,Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Not sure,Yes,Mostly Unfamiliar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Not sure,Yes,Mostly familiar,15217,Approve
+Yes,Yes,Not sure,Mostly familiar,15217,Approve
+No,Yes,Yes,Mostly familiar,15217,Neutral
+No,Yes,No,Mostly Unfamiliar,15217,Disapprove
+Not sure,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+No,Yes,Yes,Mostly Unfamiliar,15217,Approve
+Yes,No,Maybe,Somewhat familiar,15217,Neutral
+Yes,No,Yes,Somewhat familiar,15217,Somewhat Approve
+Not sure,Yes,Maybe,Mostly familiar,15217,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15217,Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+Not sure,Not sure,No,Somewhat familiar,15217,Approve
+No,Not sure,Yes,Somewhat familiar,15217,Approve
+No,Not sure,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Somewhat Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Mostly Unfamiliar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+Not sure,No,Yes,Not familiar at all,15217,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Extremely familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Extremely familiar,15217,Approve
+Not sure,Not sure,Maybe,Somewhat familiar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+No,Not sure,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15217,Somewhat Disapprove
+Yes,No,Yes,Mostly familiar,15217,Approve
+Not sure,Not sure,Yes,Extremely familiar,15217,Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+No,Not sure,Yes,Mostly familiar,15217,Approve
+Yes,Not sure,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Maybe,Mostly familiar,15217,Neutral
+No,Yes,Maybe,Mostly familiar,15217,Disapprove
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+Not sure,Not sure,Not sure,Not familiar at all,15217,Neutral
+No,No,Yes,Somewhat familiar,15217,Approve
+Not sure,Not sure,Not sure,Mostly Unfamiliar,15217,Somewhat Disapprove
+No,No,Maybe,Mostly Unfamiliar,15217,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Maybe,Somewhat familiar,15217,Somewhat Disapprove
+Yes,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15217,Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Mostly familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+Not sure,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15217,Neutral
+Yes,Yes,Not sure,Somewhat familiar,15217,Neutral
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+No,Yes,Yes,Somewhat familiar,15217,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15217,Approve
+Yes,No,Maybe,Mostly familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Approve
+Yes,Yes,Yes,Extremely familiar,15217,Approve
+Yes,Yes,Yes,Somewhat familiar,15217,Neutral
+Yes,No,Yes,Extremely familiar,15217,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15217,Approve
+Yes,No,Yes,Mostly Unfamiliar,15217,Approve
+Yes,Yes,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Extremely familiar,15217,Somewhat Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,No,Mostly Unfamiliar,15217,Neutral
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Extremely familiar,15217,Approve
+No,No,Yes,Extremely familiar,15217,Somewhat Approve
+No,No,Yes,Extremely familiar,15217,Approve
+No,No,Maybe,Mostly Unfamiliar,15217,Somewhat Disapprove
+Yes,No,Yes,Somewhat familiar,15217,Somewhat Approve
+Not sure,Not sure,Yes,Somewhat familiar,15217,Somewhat Approve
+No,No,Yes,Mostly familiar,15217,Somewhat Disapprove
+No,No,Not sure,Mostly Unfamiliar,15217,Approve
+Yes,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Somewhat Approve
+No,No,Yes,Mostly familiar,15217,Somewhat Approve
+No,No,Yes,Somewhat familiar,15217,Approve
+No,No,Not sure,Mostly Unfamiliar,15217,Somewhat Disapprove
+No,No,Yes,Extremely familiar,15217,Approve
+No,No,Yes,Mostly familiar,15217,Approve
+No,No,Yes,Mostly Unfamiliar,15217,Somewhat Approve
+No,Yes,Yes,Extremely familiar,15217,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15218,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15218,Approve
+No,Yes,Maybe,Mostly Unfamiliar,15218,Disapprove
+Not sure,Not sure,Maybe,Somewhat familiar,15218,Neutral
+Yes,Yes,Yes,Somewhat familiar,15218,Approve
+Yes,Not sure,Maybe,Mostly Unfamiliar,15218,Somewhat Approve
+No,Yes,No,Somewhat familiar,15218,Neutral
+Yes,Yes,Yes,Mostly Unfamiliar,15218,Approve
+No,No,Not sure,Somewhat familiar,15218,Neutral
+Not sure,Yes,Yes,Somewhat familiar,15218,Approve
+No,No,No,Mostly Unfamiliar,15218,Somewhat Disapprove
+No,Yes,Yes,Mostly familiar,15218,Somewhat Approve
+No,Yes,No,Mostly familiar,15218,Approve
+No,No,No,Somewhat familiar,15218,Disapprove
+Not sure,Yes,Maybe,Mostly Unfamiliar,15218,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15218,Somewhat Approve
+No,No,Yes,Somewhat familiar,15218,Somewhat Approve
+No,No,Yes,Somewhat familiar,15218,Somewhat Approve
+No,Yes,Maybe,Mostly Unfamiliar,15218,Neutral
+No,No,Maybe,Somewhat familiar,15218,Disapprove
+No,Yes,Yes,Somewhat familiar,15218,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15218,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15218,Approve
+Yes,No,Yes,Somewhat familiar,15218,Approve
+No,Yes,Yes,Somewhat familiar,15218,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15218,Approve
+No,Yes,Yes,Mostly Unfamiliar,15218,Somewhat Approve
+No,Not sure,Yes,Mostly Unfamiliar,15218,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15218,Approve
+Yes,No,Yes,Somewhat familiar,15218,Somewhat Approve
+Yes,No,Maybe,Extremely familiar,15218,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15218,Somewhat Disapprove
+No,No,Yes,Not familiar at all,15218,Approve
+No,No,Yes,Mostly familiar,15218,Approve
+Not sure,Not sure,Yes,Extremely familiar,15218,Neutral
+No,No,Yes,Mostly Unfamiliar,15218,Approve
+No,No,Yes,Mostly Unfamiliar,15218,Approve
+No,No,Yes,Somewhat familiar,15218,Approve
+Not sure,Not sure,Yes,Somewhat familiar,15218,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15218,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15219,Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15219,Somewhat Disapprove
+Yes,Yes,Maybe,Somewhat familiar,15219,Approve
+Yes,Not sure,Maybe,Somewhat familiar,15219,Somewhat Disapprove
+Yes,Yes,Maybe,Somewhat familiar,15219,Somewhat Disapprove
+No,Yes,Yes,Extremely familiar,15219,Approve
+No,Yes,Yes,Somewhat familiar,15219,Approve
+Yes,Yes,Yes,Mostly familiar,15219,Approve
+No,Yes,Yes,Mostly familiar,15219,Approve
+Not sure,No,Maybe,Mostly Unfamiliar,15219,Somewhat Disapprove
+Yes,No,Yes,Mostly familiar,15219,Somewhat Disapprove
+No,No,Maybe,Not familiar at all,15219,Neutral
+Yes,Yes,Yes,Mostly Unfamiliar,15219,Approve
+Yes,No,Yes,Somewhat familiar,15219,Approve
+Yes,Yes,No,Mostly Unfamiliar,15219,Disapprove
+Yes,No,Yes,Somewhat familiar,15219,Disapprove
+No,No,Not sure,Somewhat familiar,15219,Disapprove
+No,Yes,Yes,Mostly familiar,15219,Approve
+Yes,Yes,Yes,Mostly familiar,15219,Approve
+Yes,Yes,Yes,Somewhat familiar,15219,Approve
+Not sure,Not sure,Yes,Mostly Unfamiliar,15219,Neutral
+No,Yes,Yes,Somewhat familiar,15220,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15220,Approve
+No,No,Maybe,Mostly familiar,15220,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15220,Approve
+No,No,Maybe,Not familiar at all,15220,Neutral
+Not sure,Not sure,Yes,Mostly familiar,15220,Approve
+No,No,Yes,Somewhat familiar,15220,Approve
+No,No,Maybe,Somewhat familiar,15220,Somewhat Approve
+No,Yes,Yes,Mostly Unfamiliar,15221,Somewhat Disapprove
+Yes,No,Yes,Somewhat familiar,15221,Somewhat Approve
+Yes,Yes,Yes,Extremely familiar,15221,Approve
+No,Yes,Not sure,Extremely familiar,15221,Somewhat Disapprove
+Not sure,Yes,Yes,Mostly familiar,15221,Approve
+Not sure,Not sure,Maybe,Not familiar at all,15221,Approve
+No,Yes,Yes,Mostly familiar,15221,Approve
+Yes,Yes,Yes,Mostly familiar,15221,Approve
+Yes,No,Yes,Mostly familiar,15221,Neutral
+No,Yes,Not sure,Extremely familiar,15221,Disapprove
+Yes,Yes,Yes,Somewhat familiar,15221,Approve
+Not sure,Yes,No,Mostly Unfamiliar,15221,Approve
+No,Yes,Yes,Mostly familiar,15221,Somewhat Approve
+No,Yes,Maybe,Extremely familiar,15221,Approve
+No,Yes,Not sure,Somewhat familiar,15221,Neutral
+Yes,Yes,Not sure,Extremely familiar,15221,Approve
+Yes,Yes,Yes,Mostly familiar,15221,Approve
+No,No,Yes,Mostly familiar,15221,Approve
+No,Yes,Yes,Not familiar at all,15221,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15221,Approve
+Not sure,No,No,Somewhat familiar,15221,Neutral
+No,No,No,Not familiar at all,15221,Neutral
+No,Not sure,Yes,Somewhat familiar,15221,Somewhat Approve
+Not sure,Not sure,Yes,Mostly familiar,15221,Approve
+No,Yes,Yes,Somewhat familiar,15221,Approve
+No,No,Not sure,Somewhat familiar,15221,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15221,Somewhat Approve
+No,No,Yes,Mostly familiar,15221,Approve
+No,No,Yes,Somewhat familiar,15221,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15221,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15221,Approve
+Yes,Yes,Maybe,Extremely familiar,15221,Somewhat Disapprove
+Yes,Yes,Yes,Mostly familiar,15221,Approve
+Yes,No,Maybe,Somewhat familiar,15221,Neutral
+No,No,Yes,Mostly familiar,15221,Approve
+Not sure,Not sure,Yes,Extremely familiar,15221,Approve
+Not sure,Not sure,Not sure,Somewhat familiar,15221,Disapprove
+Not sure,Not sure,Not sure,Mostly Unfamiliar,15221,Neutral
+Yes,No,Yes,Mostly familiar,15221,Neutral
+No,No,Yes,Mostly Unfamiliar,15221,Neutral
+No,No,Yes,Mostly Unfamiliar,15221,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15221,Somewhat Approve
+Not sure,Not sure,Not sure,Mostly Unfamiliar,15221,Somewhat Disapprove
+No,Yes,Not sure,Somewhat familiar,15222,Disapprove
+Yes,Yes,Yes,Extremely familiar,15222,Approve
+Yes,Yes,No,Somewhat familiar,15222,Disapprove
+No,Yes,Yes,Mostly familiar,15222,Approve
+No,Yes,Not sure,Somewhat familiar,15222,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15222,Approve
+No,Yes,Maybe,Somewhat familiar,15222,Approve
+No,Yes,Yes,Somewhat familiar,15222,Approve
+Yes,Yes,Yes,Mostly familiar,15222,Approve
+No,Yes,Yes,Extremely familiar,15222,Approve
+Yes,Yes,Yes,Extremely familiar,15222,Approve
+Yes,Not sure,Maybe,Mostly familiar,15222,Neutral
+No,Yes,Yes,Somewhat familiar,15222,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15222,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15222,Approve
+No,Yes,Not sure,Somewhat familiar,15222,Approve
+No,Yes,Maybe,Somewhat familiar,15222,Approve
+Yes,Yes,Yes,Mostly familiar,15222,Approve
+Yes,Yes,Yes,Somewhat familiar,15222,Approve
+No,Yes,Yes,Extremely familiar,15222,Approve
+Yes,Yes,Yes,Extremely familiar,15222,Approve
+No,No,Yes,Somewhat familiar,15222,Approve
+No,No,Yes,Somewhat familiar,15222,Approve
+No,No,No,Somewhat familiar,15222,Somewhat Approve
+No,No,Yes,Somewhat familiar,15222,Approve
+No,Yes,Yes,Somewhat familiar,15222,Approve
+No,No,Maybe,Mostly Unfamiliar,15222,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15222,Somewhat Approve
+No,No,Yes,Somewhat familiar,15222,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15222,Somewhat Approve
+No,Yes,Not sure,Somewhat familiar,15222,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15222,Approve
+Yes,Yes,Yes,Mostly familiar,15222,Somewhat Approve
+Not sure,Yes,Yes,Somewhat familiar,15222,Approve
+No,Yes,Yes,Mostly familiar,15222,Somewhat Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15222,Neutral
+No,Yes,Yes,Mostly Unfamiliar,15222,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15223,Approve
+Yes,Not sure,Not sure,Somewhat familiar,15223,Neutral
+Yes,Yes,Yes,Extremely familiar,15223,Approve
+Not sure,Not sure,No,Somewhat familiar,15224,Disapprove
+No,Yes,Yes,Mostly Unfamiliar,15224,Neutral
+Yes,No,Yes,Somewhat familiar,15224,Approve
+Yes,No,Not sure,Mostly Unfamiliar,15224,Approve
+Yes,Yes,No,Mostly familiar,15224,Disapprove
+Yes,Not sure,Yes,Mostly Unfamiliar,15224,Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+No,Yes,Maybe,Somewhat familiar,15224,Neutral
+Yes,No,Yes,Somewhat familiar,15224,Somewhat Approve
+No,Yes,Maybe,Somewhat familiar,15224,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Neutral
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+Yes,No,Yes,Mostly familiar,15224,Approve
+No,Yes,Yes,Mostly familiar,15224,Approve
+Yes,No,Not sure,Not familiar at all,15224,Neutral
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+Yes,Yes,Yes,Mostly familiar,15224,Approve
+No,No,Yes,Mostly Unfamiliar,15224,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15224,Approve
+Yes,Yes,Yes,Not familiar at all,15224,Approve
+Yes,Not sure,Yes,Somewhat familiar,15224,Approve
+Yes,Yes,Yes,Extremely familiar,15224,Approve
+Not sure,Yes,Yes,Mostly Unfamiliar,15224,Approve
+Yes,No,Yes,Somewhat familiar,15224,Somewhat Approve
+No,Yes,Maybe,Mostly familiar,15224,Disapprove
+Yes,No,Yes,Mostly Unfamiliar,15224,Neutral
+Yes,Yes,Yes,Somewhat familiar,15224,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15224,Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Neutral
+Yes,Yes,Yes,Mostly familiar,15224,Approve
+No,Yes,Yes,Mostly Unfamiliar,15224,Neutral
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+Yes,No,Yes,Mostly Unfamiliar,15224,Somewhat Approve
+No,Yes,Yes,Mostly familiar,15224,Somewhat Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15224,Somewhat Approve
+Yes,Not sure,Yes,Mostly Unfamiliar,15224,Approve
+No,No,Yes,Extremely familiar,15224,Somewhat Approve
+No,Yes,Maybe,Mostly familiar,15224,Approve
+Not sure,Yes,Not sure,Somewhat familiar,15224,Disapprove
+Not sure,Yes,Maybe,Mostly Unfamiliar,15224,Somewhat Approve
+Yes,Yes,Yes,Extremely familiar,15224,Approve
+No,Yes,Not sure,Somewhat familiar,15224,Somewhat Disapprove
+Yes,No,Yes,Mostly familiar,15224,Approve
+No,Yes,Yes,Extremely familiar,15224,Approve
+No,No,Not sure,Mostly Unfamiliar,15224,Approve
+No,Yes,Yes,Mostly familiar,15224,Approve
+No,No,Yes,Somewhat familiar,15224,Neutral
+Yes,No,Yes,Mostly Unfamiliar,15224,Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+No,No,Yes,Somewhat familiar,15224,Approve
+No,No,Yes,Somewhat familiar,15224,Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Somewhat Disapprove
+Yes,Yes,Yes,Somewhat familiar,15224,Neutral
+Not sure,Not sure,Yes,Mostly Unfamiliar,15224,Approve
+Not sure,Yes,Maybe,Mostly Unfamiliar,15224,Somewhat Disapprove
+Yes,No,Yes,Extremely familiar,15224,Approve
+Yes,Yes,Yes,Mostly familiar,15224,Approve
+Yes,Not sure,Yes,Mostly familiar,15224,Approve
+Yes,Yes,Yes,Somewhat familiar,15224,Approve
+Yes,No,Yes,Somewhat familiar,15224,Approve
+No,No,Maybe,Mostly Unfamiliar,15224,Neutral
+Yes,Yes,Yes,Mostly familiar,15224,Approve
+No,No,Maybe,Somewhat familiar,15226,Approve
+No,Yes,Yes,Mostly familiar,15226,Approve
+No,No,Yes,Somewhat familiar,15226,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15226,Approve
+Yes,Yes,Not sure,Somewhat familiar,15226,Neutral
+No,Yes,Yes,Somewhat familiar,15227,Somewhat Approve
+Yes,No,Yes,Mostly familiar,15227,Neutral
+No,No,Yes,Somewhat familiar,15227,Somewhat Approve
+Yes,No,Maybe,Mostly Unfamiliar,15227,Approve
+Yes,No,Yes,Somewhat familiar,15228,Approve
+No,Yes,Maybe,Not familiar at all,15228,Somewhat Approve
+Yes,No,Yes,Mostly Unfamiliar,15228,Approve
+Yes,Yes,Yes,Somewhat familiar,15228,Approve
+Yes,Yes,Yes,Somewhat familiar,15228,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15228,Approve
+No,No,No,Mostly Unfamiliar,15228,Somewhat Disapprove
+No,No,Maybe,Mostly Unfamiliar,15228,Neutral
+No,No,Maybe,Mostly familiar,15228,Somewhat Approve
+No,No,Yes,Somewhat familiar,15228,Somewhat Approve
+No,No,Yes,Somewhat familiar,15228,Approve
+No,No,Yes,Mostly familiar,15228,Approve
+Yes,No,Yes,Not familiar at all,15228,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15228,Approve
+No,No,Yes,Mostly familiar,15228,Neutral
+No,No,Not sure,Not familiar at all,15228,Somewhat Approve
+No,No,Yes,Mostly familiar,15228,Approve
+No,Not sure,Yes,Somewhat familiar,15228,Approve
+No,Yes,Maybe,Mostly Unfamiliar,15229,Disapprove
+Not sure,Not sure,Yes,Mostly familiar,15229,Approve
+No,No,Yes,Mostly familiar,15229,Neutral
+No,No,Maybe,Somewhat familiar,15229,Approve
+No,No,Yes,Not familiar at all,15229,Neutral
+No,No,Yes,Somewhat familiar,15229,Approve
+Not sure,Not sure,Maybe,Somewhat familiar,15232,Neutral
+No,Yes,Yes,Mostly familiar,15232,Approve
+No,Yes,Yes,Mostly familiar,15232,Neutral
+Yes,Yes,Maybe,Mostly familiar,15232,Somewhat Approve
+Yes,Yes,Not sure,Mostly Unfamiliar,15232,Neutral
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+Yes,No,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Mostly familiar,15232,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15232,Somewhat Disapprove
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+Not sure,Yes,Yes,Mostly Unfamiliar,15232,Somewhat Disapprove
+Not sure,Not sure,Yes,Somewhat familiar,15232,Somewhat Approve
+Yes,Yes,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Somewhat familiar,15232,Approve
+Yes,No,Maybe,Extremely familiar,15232,Approve
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+Yes,Yes,Yes,Extremely familiar,15232,Approve
+No,Yes,Not sure,Somewhat familiar,15232,Somewhat Approve
+No,No,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Somewhat familiar,15232,Somewhat Approve
+Yes,No,Maybe,Somewhat familiar,15232,Neutral
+Yes,Yes,Maybe,Somewhat familiar,15232,Neutral
+No,Yes,Yes,Mostly familiar,15232,Approve
+No,No,No,Somewhat familiar,15232,Disapprove
+Yes,No,Maybe,Somewhat familiar,15232,Neutral
+No,Yes,No,Somewhat familiar,15232,Disapprove
+Not sure,Not sure,Yes,Mostly familiar,15232,Approve
+Not sure,Not sure,Maybe,Not familiar at all,15232,Disapprove
+No,No,Maybe,Somewhat familiar,15232,Somewhat Disapprove
+No,No,Yes,Mostly Unfamiliar,15232,Approve
+No,No,Yes,Somewhat familiar,15232,Approve
+Yes,Yes,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Somewhat familiar,15232,Approve
+Yes,Yes,Yes,Somewhat familiar,15232,Approve
+Yes,Yes,Yes,Somewhat familiar,15232,Approve
+No,Yes,Yes,Mostly familiar,15232,Approve
+Not sure,Not sure,No,Extremely familiar,15232,Disapprove
+No,Yes,Yes,Somewhat familiar,15232,Approve
+Yes,Yes,Yes,Mostly Unfamiliar,15232,Somewhat Approve
+Not sure,Not sure,Not sure,Not familiar at all,15232,Disapprove
+Yes,Yes,Maybe,Somewhat familiar,15233,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15233,Approve
+No,No,Maybe,Not familiar at all,15233,Somewhat Disapprove
+Yes,Yes,Maybe,Not familiar at all,15233,Approve
+Yes,Yes,Yes,Somewhat familiar,15233,Approve
+No,No,Maybe,Somewhat familiar,15233,Disapprove
+No,Yes,Yes,Mostly familiar,15234,Approve
+Not sure,Not sure,Maybe,Mostly Unfamiliar,15234,Approve
+No,No,No,Mostly Unfamiliar,15235,Disapprove
+No,Not sure,Maybe,Somewhat familiar,15235,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,15235,Approve
+No,Yes,No,Mostly Unfamiliar,15235,Neutral
+Yes,Yes,Yes,Somewhat familiar,15236,Somewhat Approve
+No,Not sure,No,Somewhat familiar,15236,Disapprove
+No,No,Maybe,Somewhat familiar,15236,Somewhat Approve
+Yes,No,Yes,Mostly familiar,15237,Approve
+Not sure,Yes,Yes,Mostly familiar,15237,Approve
+No,No,Yes,Mostly Unfamiliar,15237,Approve
+Yes,Yes,Maybe,Mostly familiar,15237,Approve
+No,No,Yes,Somewhat familiar,15237,Somewhat Approve
+No,No,Maybe,Somewhat familiar,15237,Approve
+No,No,Maybe,Somewhat familiar,15237,Approve
+No,No,Yes,Mostly Unfamiliar,15237,Somewhat Approve
+No,No,No,Not familiar at all,15237,Somewhat Approve
+No,No,Maybe,Not familiar at all,15237,Neutral
+Not sure,Not sure,Yes,Mostly familiar,15237,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15237,Somewhat Disapprove
+No,No,Yes,Mostly familiar,15237,Somewhat Approve
+No,No,Yes,Extremely familiar,15237,Somewhat Approve
+Yes,No,Yes,Somewhat familiar,15237,Approve
+Yes,Not sure,Yes,Mostly familiar,15237,Approve
+No,Yes,Yes,Somewhat familiar,15237,Approve
+Yes,No,Maybe,Somewhat familiar,15237,Somewhat Approve
+No,No,Not sure,Mostly Unfamiliar,15237,Neutral
+No,Yes,Not sure,Somewhat familiar,15237,Somewhat Approve
+No,No,Yes,Extremely familiar,15238,Approve
+No,Yes,Yes,Mostly familiar,15238,Somewhat Approve
+Yes,Yes,Yes,Mostly familiar,15238,Approve
+Yes,Yes,Yes,Mostly familiar,15238,Approve
+Yes,Yes,Yes,Mostly familiar,15238,Approve
+No,No,Yes,Mostly familiar,15238,Approve
+No,No,Yes,Not familiar at all,15238,Approve
+No,No,Maybe,Mostly Unfamiliar,15238,Somewhat Approve
+No,No,Not sure,Mostly Unfamiliar,15238,Neutral
+No,No,Maybe,Not familiar at all,15238,Somewhat Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15238,Approve
+No,No,Yes,Somewhat familiar,15238,Somewhat Disapprove
+Yes,No,Yes,Somewhat familiar,15239,Approve
+Not sure,Not sure,No,Mostly familiar,15239,Somewhat Disapprove
+Yes,Yes,Yes,Mostly Unfamiliar,15241,Approve
+Yes,No,Yes,Somewhat familiar,15241,Somewhat Approve
+No,No,Yes,Somewhat familiar,15241,Approve
+Not sure,Not sure,Maybe,Mostly familiar,15241,Approve
+No,No,Yes,Somewhat familiar,15241,Somewhat Approve
+No,No,Not sure,Somewhat familiar,15241,Somewhat Disapprove
+No,No,No,Mostly Unfamiliar,15241,Somewhat Disapprove
+No,Yes,Yes,Extremely familiar,15241,Approve
+Not sure,Yes,Yes,Mostly familiar,15243,Approve
+No,Not sure,Maybe,Somewhat familiar,15243,Somewhat Disapprove
+No,Yes,Yes,Mostly Unfamiliar,15243,Somewhat Approve
+Yes,Yes,Maybe,Mostly Unfamiliar,15243,Approve
+No,No,Yes,Somewhat familiar,15243,Approve
+Yes,No,Yes,Mostly Unfamiliar,15243,Approve
+No,No,No,Mostly familiar,15260,Disapprove
+Yes,Yes,Maybe,Somewhat familiar,15289,Somewhat Disapprove
+No,Not sure,Not sure,Mostly Unfamiliar,15301,Somewhat Approve
+No,No,No,Extremely familiar,15301,Disapprove
+Not sure,Not sure,Maybe,Somewhat familiar,15317,Disapprove
+No,No,Maybe,Not familiar at all,15317,Neutral
+No,No,Yes,Somewhat familiar,15317,Approve
+No,Yes,Yes,Somewhat familiar,15332,Approve
+No,No,Yes,Mostly Unfamiliar,15332,Approve
+No,No,Yes,Mostly familiar,15342,Somewhat Approve
+No,No,Yes,Mostly familiar,15367,Approve
+No,No,Maybe,Somewhat familiar,15367,Neutral
+No,No,Yes,Mostly Unfamiliar,15473,Disapprove
+No,Yes,Yes,Mostly familiar,15601,Approve
+No,No,Yes,Mostly familiar,15601,Approve
+No,No,No,Somewhat familiar,15601,Disapprove
+No,Not sure,Maybe,Somewhat familiar,15602,Somewhat Approve
+No,No,Yes,Somewhat familiar,15642,Approve
+Not sure,Not sure,Maybe,Somewhat familiar,15642,Somewhat Disapprove
+No,No,Yes,Somewhat familiar,15661,Somewhat Approve
+No,No,Maybe,Mostly Unfamiliar,15668,Somewhat Approve
+No,Not sure,Maybe,Mostly Unfamiliar,15668,Neutral
+No,No,Maybe,Somewhat familiar,15668,Neutral
+No,Yes,Yes,Somewhat familiar,15668,Approve
+No,No,Yes,Somewhat familiar,15668,Somewhat Approve
+No,No,Yes,Mostly Unfamiliar,15680,Approve
+No,No,Yes,Somewhat familiar,15801,Approve
+No,No,Maybe,Somewhat familiar,15864,Neutral
+No,Yes,Not sure,Mostly Unfamiliar,16002,Approve
+No,No,Not sure,Not familiar at all,16002,Approve
+Yes,Yes,Yes,Extremely familiar,16002,Approve
+No,No,Not sure,Somewhat familiar,16033,Somewhat Disapprove
+Yes,Yes,Not sure,Extremely familiar,16046,Approve
+No,Yes,Maybe,Mostly familiar,16059,Approve
+Yes,Yes,Yes,Somewhat familiar,16066,Approve
+No,No,Yes,Mostly Unfamiliar,16066,Somewhat Approve
+No,No,Not sure,Mostly Unfamiliar,16066,Disapprove
+No,No,Maybe,Mostly Unfamiliar,16066,Neutral
+Not sure,Yes,No,Mostly Unfamiliar,16066,Disapprove
+Not sure,Not sure,Yes,Somewhat familiar,16066,Approve
+Yes,Yes,Yes,Somewhat familiar,16066,Approve
+No,No,Yes,Extremely familiar,16105,Approve
+No,No,No,Mostly familiar,16137,Disapprove
+No,No,No,Somewhat familiar,16602,Disapprove
+No,No,Maybe,Mostly Unfamiliar,17363,Somewhat Approve
+No,No,Yes,Somewhat familiar,20001,Somewhat Approve
+No,Yes,Yes,Somewhat familiar,20910,Somewhat Approve
+No,No,Yes,Somewhat familiar,21740,Neutral
+No,No,Yes,Mostly familiar,22301,Somewhat Approve
+No,No,Yes,Extremely familiar,26003,Disapprove
+No,No,Maybe,Not familiar at all,26003,Approve
+Not sure,Not sure,Yes,Somewhat familiar,26501,Somewhat Approve
+No,No,Not sure,Not familiar at all,94612,Disapprove
+No,No,Maybe,Mostly familiar,97206,Disapprove

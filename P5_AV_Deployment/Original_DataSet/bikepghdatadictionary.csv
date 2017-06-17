@@ -1,0 +1,26 @@
+FieldName,Description or Question,Range of Responses
+Response ID,Response ID,ID
+ Start Date,Date/time survey started,Date/time survey started
+ End Date,Date/time survey completed,Date/time survey completed
+ Status, Status,Completed
+ Source Type, Source Type,Survey link; social
+InteractPedestrian,Have you interacted with an AV while riding your bicycle on the streets of Pittsburgh?,No; Not Sure; Yes
+InteractBicycle,Have you interacted with an AV while using sidewalks and crosswalks in Pittsburgh?,No; Not Sure; Yes
+CircumstancesFreeText,"If you have had AV interactions, what were the circumstances? What were your observations?","Question asked, but results not shared as publicly accessible data"
+CircumstancesCoded,Circumstances Coded,Free-text coded by Pitt UCSUR. Codes: 1. expressed that AV are safer than a human driver; 2. feel no difference between a human driver or experienced no negative interaction with an AV; 3. experienced AV more cautious or slower than a human driver or that respondents had difficulty anticipating movement of an AV or communicating with an AV; 4. respondent reported having or witnessing a negative interaction with an AV; 9. other
+FeelingsProvingGround,How do you feel right now about the use of Pittsburgh's public streets as a proving ground for AVs?,Approve; Somewhat Approve; Neutral; Somewhat Disapprove; Disapprove
+SafetyHuman,"On a typical day, how safe do you feel using Pittsburgh's streets with human-driven cars? (1 being ""very unsafe""; and 5 being ""very safe"")","Scale 1-5 + no experience:  1 being ""very unsafe""; and 5 being ""very safe"""
+SafetyAV,"On a typical day, how safe do you feel using Pittsburgh's streets with autonomous vehicles? (1 being ""very unsafe""; and 5 being ""very safe"")","Scale 1-5 + no experience: 1 being ""very unsafe""; and 5 being ""very safe"""
+AVSafetyPotential,Do you think that AVs have the potential to reduce injuries and fatalities?,Yes; Maybe; No; Not Sure
+RegulationTesting,"On public streets, do you think that a regulatory authority should... Come up with regulations regarding how AVs are tested?",Yes; Not Sure; No
+RegulationSpeed,"On public streets, do you think that a regulatory authority should... Cap the speed limit in which AVs are allowed to operate?",Yes; Not Sure; No
+RegulationSchoolZone,"On public streets, do you think that a regulatory authority should... Prevent AVs from operating in an active school zone?",Yes; Not Sure; No
+RegulationShareData,"On public streets, do you think that a regulatory authority should... Require companies to share non-personal data with the proper authorities, planning agencies, etc? (AVs collect lots of useful data for city planners)",Yes; Not Sure; No
+OtherRegulations,Any other suggested regulations?,"Question asked, but results not shared as publicly accessible data"
+AdvocacyIssues,Is this an advocacy issue that BikePGH should dedicate resources to?,Strongly Agree; Agree; Neutral; Disagree; Strongly Disagree
+BikePghPosition,What do you think BikePGH's position on AVs should be?,Actively Support; Neither Support nor Oppose; Actively Oppose; No Opinion
+BikePghElaborate,Please elaborate on this.,"Question asked, but results not shared as publicly accessible data"
+PayingAttentionAV,To what extent have you been paying attention to the subject of AVs in the news?,To a large extent; to a moderate extent; to some extent; to little extent; not at all
+FamiliarityTechnoology,How familiar are you with the technology behind autonomous vehicles?,Extremely familiar; mostly familiar; somewhat familiar; mostly unfamiliar; not familiar at all
+MoreToShare,Anything else you'd like to share regarding AVs?,"Question asked, but results not shared as publicly accessible data"
+ZipCode,Zipcode,Zip Code
