@@ -18,3 +18,4 @@ Applied Reinforcement Learning Techniques to solve the problem
 
 ## Project 5: Autonomous Vehicle Deployment
 Applied Supervised Classification Techniques to predict if target city is ready to accept AV
+<img src = "https://github.com/ramilsharifsoy/Machine_Learning_ND/blob/master/P5_AV_Deployment/AVD_References/DataFlow.png">
