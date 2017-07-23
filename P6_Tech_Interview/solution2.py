@@ -8,32 +8,51 @@ Created on Fri Jul 21 12:12:43 2017
 Given a string a, find the longest palindromic substring contained in a.
 Your function definition should look like question2(a), and return a string.
 """
-# Main function.
-def Question2(a):
-    a = a.lower()
-    a = a.replace(" ", "")
-    for l in substrings(a):
-        if palindrome(l):
-            return l
 
-# Gives substrings of s in decending order.
-def substrings(s):
+# Solution:
     
-    # Declare local variable for the length of s.
-    length_s = len(s)
+"""
+1. Lowercase all input
+2. Remove spaces to recognize sentences
+3. Slice string in substrings
+4. Feed slices to palindrome function to compare mirrored strings
+"""
 
-    # Here I chose range over xrange for python version compatibility.
-    for end in range(length_s, 0, -1):
-        for i in range(length_s-end+1):
-            yield s[i: i+end]
+def Question2(string_a):
+    
+    string_a = string_a.lower()                       # Lowercase letters
+    string_a = string_a.replace(" ", "")              # Remove Spaces
+    string_a = string_a.replace(",", "")              # Remove commas
+    
+    for slice_s in substrings(string_a):              # String in > slice out
+        if palindrome(slice_s):                       # Compare slice with its mirrored copy
+            return slice_s
 
-# Define palindrome.
-def palindrome(s):
-    return s == s[::-1]
+"""
+5. Slice from the end and the begnning of the string
+6. Move slice along the string
+"""
 
-# Simple test case.
+def substrings(string_in):
+    
+    length_s = len(string_in)
+    for backward in range(length_s, 0, -1):
+        for forward in range(length_s - backward + 1):
+            yield string_in[forward: forward + backward]
+
+"""
+7. Feed each slice to palindrome
+"""
+
+def palindrome(mirror_s):
+    return mirror_s == mirror_s[::-1]
+
+print (Question2(""))
+print (Question2(" "))
+print (Question2("I"))
 print (Question2("I love bananas !!!"))
-print (Question2("I have a racecar !!!"))
+print (Question2("Bananas that I saw!!!"))
+print (Question2("I drive a racecar !!!"))
 print (Question2("A nut for a jar of tuna."))
 print (Question2("Was it a car or a cat I saw?"))
 print (Question2("Murder for a jar of red rum."))
