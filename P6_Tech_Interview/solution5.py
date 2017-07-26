@@ -17,6 +17,23 @@ class Node(object):
     self.data = data
     self.next = None
 """
+
+################################### Solution 5: ###############################
+
+"""
+    Use two pointers:
+    One of two pointers marks the mth node from the beginning. At this point second
+    pointers starts at the beginning. From here, both move together to next untill
+    first pointer reaches the end. While first pointers reaches the end, second pointer
+    reaches mth node from the end.
+    
+    Implementation Steps [4]:
+    - Maintain two pointers – reference_pointer and main_pointer 
+    - Initialize both reference and main pointers to head 
+    - First move reference pointer to m nodes from head 
+    - Next, move both pointers one by one until reference pointer reaches end 
+    - Lastly, main pointer will point to nth node from the end. Return main pointer
+"""
 # linked list node
 class Node(object):
     def __init__(self, data):
@@ -36,62 +53,65 @@ class LinkedList(object):
             current.next = new_node
         else:
             self.head = new_node
-    def nthNodeFromLast(self, m):
-        main_ptr = self.head
-        ref_ptr = self.head 
+    
+    def mthElementFromTheEnd(self, m): # Setting both pointers to head
+        main_pointer = self.head
+        reference_pointer = self.head 
      
         count = 0
-        if(self.head is not None):
+        if(self.head is not None): # Moving reference pointer to mth node from the beginning
             while(count < m):
-                if(ref_ptr is None):
-                    print ("\n ERROR: %d is greater than the no. of nodes in list" % (m))
+                if(reference_pointer is None):
+                    print ("ERROR: %d is greater than the number of nodes in the list." % (m))
                     return
   
-                ref_ptr = ref_ptr.next
+                reference_pointer = reference_pointer.next
                 count += 1
  
-        while(ref_ptr is not None):
-            main_ptr = main_ptr.next
-            ref_ptr = ref_ptr.next
+        while(reference_pointer is not None): # Moving pointers together
+            main_pointer = main_pointer.next
+            reference_pointer = reference_pointer.next
         
-        return main_ptr
+        return main_pointer
     
-# main
-def question5(ll, m):
+def question5(ll, m): # Main Function
     if ll:
-        return ll.nthNodeFromLast(m)
+        return ll.mthElementFromTheEnd(m)
 
-# setup nodes
-n1 = Node(1)
-n2 = Node(2)
-n3 = Node(3)
-n4 = Node(4)
-n5 = Node(5)
+# List of nodes
+node_1 = Node('A') 
+node_2 = Node('B')
+node_3 = Node('C')
+node_4 = Node('D')
+node_5 = Node('E')
+node_6 = Node('F')
+node_7 = Node('G')
+node_8 = Node('H')
+node_9 = Node('I')
 
-# setup LinkedList
-ll = LinkedList(n1)
-ll.append(n2)
-ll.append(n3)
-ll.append(n4)
-ll.append(n5)
+# Linked List of Nodes
+ll = LinkedList(node_1)
+ll.append(node_2)
+ll.append(node_3)
+ll.append(node_4)
+ll.append(node_5)
+ll.append(node_6)
+ll.append(node_7)
+ll.append(node_8)
+ll.append(node_9)
 
-m = 5
-answer = question5(ll, m) # expect 3
-print ("\n Node in linked list that is {} steps from the end is {}".format(m, answer.data))
+m = 1
+answer = question5(ll, m) # Test Code
+print ("Node {} is {} step(s) from the end.".format(answer.data, m))
 
-# edge testcase-1
-m = 99
-answer = question5(ll, m) # expect ERROR: 99 is greater than the no. of nodes in list
-
-# edge testcase-2
-ll = None
-m = 3
-answer = question5(ll, m) # expect None
-print ("\n Node in linked list that is {} steps from the end is {}".format(m, answer))
+m = 10
+answer = question5(ll, m) # Error message test
 
 """
 Refernce:
     [1] http://www.openbookproject.net/thinkcs/python/english2e/ch18.html
     [2] http://interactivepython.org/UhZmZ/courselib/static/pythonds/BasicDS/ImplementinganUnorderedListLinkedLists.html
     [3] https://github.com/srikanthpagadala/udacity/tree/master/Machine%20Learning%20Engineer%20Nanodegree/Technical%20Interview%20Practice
+    [4] http://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
 """
+###############################################################################
